@@ -18,14 +18,13 @@
 
 [네이버](http://www.naver.com)
 
-*single asterisks*
-_single underscores_
-**double asterisks**
-__double underscores__
-~~cancelline~~
+*single asterisks*  
+_single underscores_  
+**double asterisks**  
+__double underscores__  
+~~cancelline~~  
 
-'''
 print("hello Markdown")
-'''
+
 
 <img src="https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/pt/2023/02/27/202302270952770046_63fbfeeddcf2c.jpg"></img>
