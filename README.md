@@ -24,8 +24,6 @@ _single underscores_
 __double underscores__  
 ~~cancelline~~  
   
-'''
-print("hello Markdown")
-'''
+'''print("hello Markdown")'''
 
 <img src="https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/pt/2023/02/27/202302270952770046_63fbfeeddcf2c.jpg"></img>
