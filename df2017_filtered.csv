@@ -1,0 +1,757 @@
+Age,Gender,Country,family_history,self_employed,no_employees,tech_company,Organizational_Care_1,Organizational_Care_2,Organizational_Access,Organizational_Support,Organizational_Protection,Organizational_Leave,mentalhealthconsequence,coworkers,supervisors,mentalimportance,mh_current,mh_diagnosed,mh_past,mh_treated,work_interfere_impact,work_interfere_percentage,work_interfere_treated,work_interfere_untreated
+27.0,Female,United Kingdom,No,0,100-500,1.0,No,I don't know,Yes,No,I don't know,I don't know,"Yes, I experienced",Yes,Yes,6.0,Possibly,,Possibly,1,,,Sometimes,Sometimes
+31.0,male,United Kingdom,No,0,100-500,1.0,Yes,No,Yes,No,I don't know,I don't know,"Yes, I observed",Yes,Maybe,7.0,Possibly,,Possibly,0,,,Not applicable to me,Sometimes
+36.0,male,United States of America,Yes,0,6-25,1.0,I don't know,No,No,I don't know,Yes,Difficult,"Yes, I experienced",Maybe,Yes,0.0,Yes,Yes,Yes,1,,,Sometimes,Sometimes
+22.0,Male,United States of America,I don't know,0,More than 1000,1.0,Yes,I don't know,Yes,I don't know,Yes,Difficult,Maybe/Not sure,Yes,Yes,7.0,Yes,Yes,No,1,,,Sometimes,Often
+52.0,female,United States of America,Yes,1,,,,,,,,,No,,,,No,,Yes,1,Yes,1-25%,Often,Sometimes
+30.0,male,United States of America,Yes,0,100-500,1.0,Yes,I don't know,No,No,Yes,Somewhat easy,"Yes, I observed",Maybe,Maybe,9.0,No,,No,0,,,Rarely,Not applicable to me
+36.0,F,United States of America,Yes,0,6-25,1.0,Yes,No,Yes,No,Yes,Very easy,No,No,Yes,10.0,Yes,Yes,No,1,,,Rarely,Often
+38.0,Female,United States of America,Yes,0,26-100,1.0,Yes,No,No,No,I don't know,Somewhat easy,No,Maybe,Yes,10.0,No,,No,1,,,Not applicable to me,Not applicable to me
+35.0,Male,Switzerland,I don't know,0,100-500,0.0,I don't know,No,No,No,Yes,Very easy,No,Maybe,Maybe,9.0,Don't Know,,No,0,,,Not applicable to me,Not applicable to me
+36.0,male,India,No,1,,,,,,,,,"Yes, I experienced",,,,Possibly,,No,1,Unsure,,Often,Sometimes
+40.0,M,United States of America,Yes,0,100-500,0.0,Yes,No,Yes,No,I don't know,I don't know,"Yes, I experienced",No,No,1.0,Yes,Yes,Possibly,1,,,Often,Sometimes
+35.0,Male,United States of America,Yes,0,100-500,1.0,I don't know,I don't know,No,No,I don't know,Difficult,"Yes, I experienced",No,Maybe,5.0,Yes,Yes,Yes,0,,,Sometimes,Often
+23.0,Male,Russia,No,0,More than 1000,1.0,No,No,No,No,I don't know,Neither easy nor difficult,Maybe/Not sure,Yes,Maybe,7.0,No,,No,0,,,Sometimes,Not applicable to me
+22.0,Female,United States of America,I don't know,0,More than 1000,1.0,I don't know,I don't know,No,No,I don't know,Neither easy nor difficult,Maybe/Not sure,Maybe,Maybe,3.0,Yes,No,,1,,,Sometimes,Often
+34.0,female,United States of America,Yes,0,26-100,1.0,I don't know,I don't know,,I don't know,Yes,Very easy,No,Yes,Maybe,5.0,Yes,Yes,Yes,1,,,Sometimes,Sometimes
+28.0,Male,United States of America,No,0,100-500,0.0,Yes,I don't know,No,No,I don't know,Somewhat easy,"Yes, I experienced",Maybe,Yes,8.0,Yes,Yes,No,1,,,Rarely,Often
+38.0,male,Bangladesh,No,0,26-100,0.0,No,No,No,No,Yes,Neither easy nor difficult,"Yes, I experienced",Yes,Yes,9.0,Possibly,,No,0,,,Never,Sometimes
+53.0,Male,United States of America,No,1,,,,,,,,,No,,,,No,,No,0,Yes,1-25%,Not applicable to me,Not applicable to me
+21.0,Male,Germany,No,0,6-25,1.0,I don't know,No,No,No,I don't know,Somewhat easy,No,Maybe,Maybe,4.0,Possibly,,Possibly,0,,,Rarely,Sometimes
+35.0,F,United Kingdom,Yes,0,More than 1000,0.0,I don't know,I don't know,No,No,I don't know,Neither easy nor difficult,Maybe/Not sure,Maybe,Maybe,4.0,Don't Know,,No,0,,,Not applicable to me,Not applicable to me
+22.0,Male,United Kingdom,Yes,0,6-25,1.0,No,No,No,No,I don't know,Neither easy nor difficult,No,No,No,2.0,Possibly,,Possibly,0,,,Sometimes,Sometimes
+18.0,Male,United Kingdom,Yes,0,100-500,0.0,Not eligible for coverage / NA,Yes,,Yes,Yes,Somewhat difficult,No,Yes,Yes,7.0,Possibly,,Possibly,1,,,Never,Sometimes
+37.0,female,United States of America,Yes,0,26-100,0.0,I don't know,No,No,No,I don't know,Difficult,"Yes, I observed",Yes,Yes,8.0,Yes,Yes,Yes,1,,,Sometimes,Often
+25.0,Male,United Kingdom,I don't know,0,1-5,1.0,No,No,,No,I don't know,Difficult,No,Maybe,Maybe,6.0,Yes,Yes,Don't Know,1,,,Sometimes,Often
+40.0,male,Canada,I don't know,0,100-500,1.0,No,No,No,Yes,I don't know,I don't know,No,Maybe,No,10.0,Don't Know,,Don't Know,1,,,Not applicable to me,Not applicable to me
+33.0,Male,Israel,Yes,0,6-25,1.0,No,No,No,No,Yes,Very easy,No,Maybe,Yes,7.0,Don't Know,,Don't Know,0,,,Not applicable to me,Not applicable to me
+66.0,F,United States of America,Yes,0,More than 1000,0.0,Yes,I don't know,No,No,I don't know,Somewhat difficult,"Yes, I experienced",No,No,5.0,Yes,Yes,Yes,1,,,Sometimes,Often
+31.0,female,United States of America,Yes,0,100-500,0.0,Yes,No,Yes,No,I don't know,Somewhat easy,"Yes, I observed",Maybe,Maybe,5.0,Yes,Yes,Yes,1,,,Rarely,Often
+32.0,Male,Canada,Yes,0,100-500,0.0,Yes,Yes,Yes,Yes,Yes,Neither easy nor difficult,"Yes, I observed",Yes,Maybe,7.0,Yes,Yes,No,1,,,Rarely,Sometimes
+46.0,M,United States of America,I don't know,1,,,,,,,,,No,,,,Yes,Yes,Yes,1,Yes,26-50%,Rarely,Sometimes
+30.0,female,United States of America,Yes,0,100-500,1.0,Yes,No,Yes,I don't know,I don't know,Somewhat difficult,No,No,No,5.0,Yes,Yes,Yes,1,,,Rarely,Sometimes
+31.0,Man,United States of America,I don't know,0,100-500,1.0,Yes,No,Yes,No,Yes,Very easy,"Yes, I observed",Maybe,Maybe,5.0,Yes,Yes,Yes,1,,,Rarely,Often
+46.0,Male,Iceland,Yes,0,100-500,1.0,Not eligible for coverage / NA,No,,No,I don't know,Somewhat easy,No,Yes,Maybe,5.0,Yes,Yes,Yes,1,,,Sometimes,Often
+29.0,,Canada,I don't know,1,,,,,,,,,"Yes, I observed",,,,Yes,Yes,Yes,1,Yes,51-75%,Often,Often
+28.0,f,United States of America,Yes,0,More than 1000,0.0,Not eligible for coverage / NA,I don't know,No,No,I don't know,I don't know,No,Maybe,Maybe,2.0,Yes,Yes,Yes,1,,,Sometimes,Often
+34.0,Female,Japan,I don't know,0,6-25,0.0,No,No,No,No,I don't know,Difficult,Maybe/Not sure,No,No,5.0,Yes,Yes,Possibly,1,,,Rarely,Sometimes
+25.0,Male,United States of America,I don't know,0,26-100,1.0,Yes,No,Yes,No,No,Difficult,No,Yes,Yes,10.0,Yes,Yes,Yes,1,,,Rarely,Sometimes
+35.0,Male,United States of America,I don't know,0,100-500,0.0,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Maybe,7.0,Yes,Yes,Possibly,1,,,Sometimes,Often
+25.0,,Indonesia,Yes,1,,,,,,,,,Maybe/Not sure,,,,No,,No,0,Unsure,,Rarely,Rarely
+40.0,male,United States of America,No,0,100-500,1.0,Yes,I don't know,Yes,No,I don't know,Somewhat easy,No,Yes,Yes,7.0,Possibly,,Possibly,0,,,Rarely,Rarely
+32.0,M,United States of America,I don't know,0,100-500,0.0,I don't know,I don't know,No,No,I don't know,Very easy,Maybe/Not sure,Maybe,Yes,5.0,Yes,Yes,Don't Know,0,,,Not applicable to me,Sometimes
+39.0,Male,United States of America,Yes,0,100-500,0.0,I don't know,I don't know,No,No,I don't know,Neither easy nor difficult,No,No,No,4.0,No,,Yes,1,,,Rarely,Not applicable to me
+33.0,male,United States of America,Yes,0,500-1000,1.0,Yes,I don't know,Yes,I don't know,I don't know,I don't know,No,Maybe,Maybe,9.0,Yes,Yes,Yes,1,,,Never,Often
+40.0,Male,United States of America,I don't know,0,100-500,1.0,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,No,8.0,Possibly,,Possibly,1,,,Often,Often
+42.0,male,United States of America,I don't know,0,500-1000,1.0,Yes,I don't know,No,No,Yes,Very easy,Maybe/Not sure,Maybe,Yes,5.0,Yes,Yes,Yes,1,,,Rarely,Sometimes
+32.0,Male,United States of America,Yes,0,More than 1000,0.0,I don't know,I don't know,No,I don't know,I don't know,Difficult,"Yes, I observed",No,No,5.0,Yes,Yes,Yes,1,,,Sometimes,Often
+27.0,Female,United States of America,I don't know,0,More than 1000,0.0,Yes,Yes,Yes,No,No,Somewhat difficult,"Yes, I experienced",Maybe,No,8.0,Yes,Yes,Yes,1,,,Sometimes,Often
+43.0,Female,United Kingdom,Yes,1,,,,,,,,,"Yes, I experienced",,,,Yes,Yes,Yes,1,Yes,26-50%,Sometimes,Often
+30.0,female,Indonesia,I don't know,0,6-25,0.0,No,No,,No,No,Difficult,Maybe/Not sure,Maybe,No,4.0,Possibly,,Possibly,1,,,Often,Often
+39.0,male,United States of America,Yes,0,26-100,0.0,I don't know,No,No,No,I don't know,Difficult,No,Maybe,Maybe,0.0,Yes,Yes,Yes,1,,,Sometimes,Sometimes
+42.0,Female,United States of America,Yes,0,6-25,1.0,Yes,I don't know,No,No,I don't know,I don't know,No,Yes,No,6.0,Yes,Yes,Yes,1,,,Sometimes,Often
+37.0,Genderfluid,Canada,Yes,0,6-25,1.0,Yes,No,Yes,Yes,Yes,Somewhat easy,"Yes, I observed",Maybe,Yes,10.0,Yes,Yes,Yes,1,,,Often,Often
+38.0,Female,United States of America,Yes,0,500-1000,0.0,I don't know,I don't know,Yes,No,I don't know,Difficult,"Yes, I experienced",No,No,6.0,Yes,Yes,Yes,1,,,Sometimes,Often
+47.0,Male,United Kingdom,No,0,More than 1000,1.0,I don't know,I don't know,No,I don't know,I don't know,Very easy,Maybe/Not sure,Maybe,Maybe,8.0,Don't Know,,No,0,,,Not applicable to me,Not applicable to me
+64.0,male,United Kingdom,No,0,500-1000,1.0,I don't know,Yes,No,Yes,I don't know,Somewhat difficult,"Yes, I observed",No,No,5.0,Yes,Yes,Yes,1,,,Rarely,Sometimes
+28.0,Male,Canada,Yes,0,100-500,0.0,No,No,Yes,No,I don't know,Somewhat difficult,"Yes, I experienced",No,No,8.0,Yes,Yes,Yes,1,,,Sometimes,Often
+45.0,Male,United States of America,I don't know,1,,,,,,,,,Maybe/Not sure,,,,Possibly,,Possibly,1,Yes,1-25%,Not applicable to me,Sometimes
+37.0,M,United Kingdom,No,0,100-500,1.0,Yes,I don't know,Yes,Yes,Yes,Very easy,No,Yes,Maybe,7.0,No,,No,0,,,Not applicable to me,Not applicable to me
+30.0,Female,United Kingdom,Yes,0,26-100,1.0,Yes,Yes,Yes,Yes,I don't know,Very easy,No,Yes,Yes,9.0,Yes,Yes,Yes,1,,,Sometimes,Often
+25.0,Male,United Kingdom,No,0,100-500,0.0,I don't know,No,No,No,I don't know,Somewhat easy,No,Yes,Yes,5.0,No,,No,0,,,Not applicable to me,Not applicable to me
+25.0,Female,United Kingdom,Yes,0,26-100,1.0,No,Yes,,No,Yes,Very easy,"Yes, I observed",No,Maybe,10.0,Yes,No,,0,,,Often,Often
+54.0,Female,United States of America,Yes,1,,,,,,,,,"Yes, I observed",,,,Yes,Yes,Yes,1,Yes,1-25%,Sometimes,Often
+61.0,Male,United Kingdom,I don't know,0,500-1000,1.0,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,No,Maybe,Yes,5.0,Yes,Yes,No,1,,,Rarely,Rarely
+26.0,male,India,No,0,More than 1000,1.0,No,No,No,No,I don't know,I don't know,No,No,Maybe,8.0,No,,No,0,,,Not applicable to me,Not applicable to me
+44.0,Female,United States of America,Yes,0,More than 1000,0.0,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,"Yes, I experienced",Yes,No,2.0,Yes,Yes,Yes,1,,,Sometimes,Often
+26.0,male,Portugal,I don't know,0,6-25,1.0,No,No,No,No,I don't know,I don't know,Maybe/Not sure,No,Yes,0.0,Yes,Yes,Possibly,1,,,Sometimes,Often
+26.0,Female,Portugal,Yes,0,26-100,1.0,Yes,No,No,No,I don't know,Somewhat easy,"Yes, I experienced",Maybe,Yes,9.0,Yes,Yes,Yes,1,,,Often,Often
+35.0,female,United States of America,I don't know,0,6-25,1.0,I don't know,I don't know,No,No,Yes,Neither easy nor difficult,No,Maybe,Yes,7.0,No,,Possibly,1,,,Sometimes,Sometimes
+45.0,Male,United States of America,No,0,26-100,1.0,Yes,No,Yes,No,I don't know,Very easy,Maybe/Not sure,Maybe,Maybe,5.0,No,,No,0,,,Not applicable to me,Not applicable to me
+23.0,Male,United States of America,I don't know,0,26-100,1.0,I don't know,No,No,No,I don't know,Somewhat easy,No,Yes,Yes,3.0,No,,Possibly,0,,,Not applicable to me,Not applicable to me
+44.0,Male,United States of America,No,0,More than 1000,0.0,Yes,I don't know,Yes,I don't know,I don't know,Somewhat easy,No,Maybe,Yes,7.0,Don't Know,,Don't Know,0,,,Not applicable to me,Not applicable to me
+38.0,male,United States of America,I don't know,0,More than 1000,0.0,Yes,Yes,No,Yes,Yes,Neither easy nor difficult,"Yes, I observed",Maybe,Yes,5.0,Possibly,,Yes,1,,,Rarely,Sometimes
+46.0,Male,United States of America,Yes,0,500-1000,0.0,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe/Not sure,Yes,Yes,8.0,No,,Yes,1,,,Rarely,Often
+27.0,Nonbinary,United States of America,I don't know,0,500-1000,0.0,Yes,I don't know,No,Yes,I don't know,Somewhat difficult,Maybe/Not sure,No,Maybe,5.0,Yes,Yes,Yes,1,,,Sometimes,Often
+39.0,female,United States of America,Yes,0,100-500,0.0,Yes,Yes,Yes,I don't know,Yes,Difficult,"Yes, I observed",Maybe,Maybe,7.0,Yes,Yes,Yes,1,,,Rarely,Often
+33.0,Female ,United States of America,Yes,0,26-100,1.0,I don't know,No,No,No,I don't know,I don't know,"Yes, I experienced",No,No,10.0,Possibly,,Yes,1,,,Sometimes,Often
+38.0,female,United States of America,Yes,1,,,,,,,,,No,,,,Yes,Yes,Yes,1,Yes,1-25%,Sometimes,Often
+35.0,Male,United Kingdom,No,0,26-100,0.0,Not eligible for coverage / NA,No,,No,I don't know,Difficult,Maybe/Not sure,No,No,9.0,No,,No,0,,,Not applicable to me,Not applicable to me
+32.0,male,Czech Republic,No,0,More than 1000,1.0,No,No,No,No,I don't know,Neither easy nor difficult,"Yes, I experienced",Maybe,No,7.0,Yes,Yes,Possibly,1,,,Sometimes,Rarely
+26.0,Female,United States of America,I don't know,0,More than 1000,1.0,Yes,No,Yes,I don't know,I don't know,Somewhat easy,"Yes, I observed",No,No,5.0,Yes,Yes,Possibly,0,,,Rarely,Often
+50.0,cis-male,United States of America,Yes,0,100-500,1.0,Yes,I don't know,Yes,No,I don't know,Somewhat difficult,"Yes, I observed",Maybe,Maybe,4.0,Yes,Yes,Yes,1,,,Rarely,Often
+31.0,Male,United States of America,Yes,0,100-500,1.0,I don't know,I don't know,Yes,I don't know,I don't know,Somewhat easy,No,Yes,Yes,9.0,Yes,Yes,Yes,1,,,Rarely,Not applicable to me
+46.0,Male,Romania,Yes,0,More than 1000,1.0,I don't know,I don't know,No,Yes,I don't know,Somewhat difficult,No,Maybe,Maybe,8.0,Don't Know,,No,0,,,Not applicable to me,Not applicable to me
+30.0,Male,United States of America,Yes,0,26-100,1.0,Yes,No,No,No,Yes,Somewhat easy,No,Maybe,No,7.0,Yes,Yes,Yes,1,,,Rarely,Often
+30.0,Mail,United States of America,I don't know,0,More than 1000,1.0,Yes,I don't know,No,No,I don't know,Somewhat difficult,No,Maybe,Maybe,8.0,Yes,Yes,Yes,1,,,Sometimes,Often
+34.0,male,Germany,No,0,100-500,1.0,No,No,No,No,I don't know,Neither easy nor difficult,"Yes, I observed",Maybe,Yes,8.0,Yes,Yes,Yes,1,,,Rarely,Often
+42.0,Male,United Kingdom,No,0,More than 1000,0.0,Yes,Yes,Yes,Yes,Yes,Difficult,Maybe/Not sure,No,No,8.0,No,,No,0,,,Not applicable to me,Not applicable to me
+24.0,Female,United States of America,Yes,0,More than 1000,1.0,Yes,Yes,Yes,Yes,No,Somewhat difficult,"Yes, I experienced",Maybe,Maybe,8.0,Yes,Yes,Yes,1,,,Sometimes,Often
+30.0,Male,United States of America,Yes,1,,,,,,,,,"Yes, I experienced",,,,Yes,Yes,Yes,1,Yes,26-50%,Sometimes,Often
+23.0,Male,Canada,I don't know,0,26-100,1.0,Yes,I don't know,Yes,Yes,I don't know,Somewhat easy,No,Yes,Maybe,8.0,Don't Know,,Don't Know,0,,,Not applicable to me,Not applicable to me
+31.0,female,United States of America,Yes,0,100-500,1.0,Yes,No,Yes,No,I don't know,Somewhat easy,No,No,No,10.0,Yes,Yes,Yes,1,,,Rarely,Often
+31.0,male,Finland,I don't know,0,26-100,1.0,No,No,No,No,I don't know,I don't know,Maybe/Not sure,Maybe,No,2.0,Possibly,,No,0,,,Rarely,Sometimes
+27.0,Woman,United States of America,Yes,0,100-500,1.0,Yes,I don't know,Yes,No,I don't know,Somewhat easy,"Yes, I experienced",Yes,Maybe,5.0,Yes,Yes,Yes,1,,,Sometimes,Often
+26.0,Male,Pakistan,No,1,,,,,,,,,No,,,,No,,Possibly,0,Unsure,,Not applicable to me,Not applicable to me
+52.0,Female,United States of America,Yes,0,500-1000,0.0,Yes,Yes,Yes,No,I don't know,Somewhat difficult,"Yes, I observed",No,Maybe,10.0,No,,No,0,,,Not applicable to me,Not applicable to me
+28.0,Male,Belgium,No,1,,,,,,,,,Maybe/Not sure,,,,Don't Know,,No,0,Yes,76-100%,Not applicable to me,Not applicable to me
+37.0,male,United States of America,I don't know,0,1-5,1.0,No,I don't know,No,No,I don't know,I don't know,"Yes, I observed",No,No,4.0,Possibly,,Don't Know,0,,,Rarely,Often
+37.0,male,Canada,No,0,500-1000,0.0,No,Yes,,Yes,No,Somewhat easy,No,Maybe,Maybe,6.0,No,,Possibly,0,,,Not applicable to me,Not applicable to me
+38.0,Male,United States of America,Yes,0,More than 1000,0.0,Yes,No,Yes,No,Yes,Very easy,No,Yes,Yes,8.0,Yes,Yes,Yes,1,,,Rarely,Often
+57.0,Female,United States of America,Yes,1,,,,,,,,,No,,,,Yes,Yes,Yes,1,Yes,26-50%,Sometimes,Often
+34.0,Male,United States of America,Yes,0,More than 1000,1.0,Yes,I don't know,Yes,I don't know,I don't know,Somewhat easy,Maybe/Not sure,Maybe,Yes,7.0,Yes,Yes,No,1,,,Rarely,Sometimes
+38.0,female,Germany,Yes,0,More than 1000,1.0,Yes,Yes,Yes,No,I don't know,Difficult,"Yes, I observed",No,No,5.0,No,,Possibly,1,,,Rarely,Sometimes
+30.0,Male,United States of America,I don't know,0,26-100,1.0,I don't know,I don't know,No,No,Yes,Neither easy nor difficult,"Yes, I observed",Maybe,Maybe,4.0,Possibly,,No,1,,,Rarely,Sometimes
+52.0,Male,United States of America,No,0,More than 1000,0.0,Yes,I don't know,Yes,Yes,Yes,Somewhat easy,No,No,No,8.0,Possibly,,Don't Know,0,,,Rarely,Rarely
+31.0,Female,United States of America,No,1,,,,,,,,,No,,,,Yes,Yes,Yes,1,Yes,26-50%,Sometimes,Often
+29.0,Male,Germany,I don't know,1,,,,,,,,,"Yes, I observed",,,,No,,Possibly,0,Yes,1-25%,Not applicable to me,Not applicable to me
+26.0,Female,United Kingdom,Yes,0,6-25,1.0,I don't know,No,No,No,I don't know,Difficult,No,No,No,1.0,Don't Know,,No,0,,,Not applicable to me,Not applicable to me
+29.0,female,United States of America,I don't know,0,26-100,0.0,Yes,No,No,No,Yes,Somewhat difficult,Maybe/Not sure,No,Yes,7.0,Yes,Yes,Yes,1,,,Often,Sometimes
+44.0,Male,United States of America,Yes,0,More than 1000,1.0,Yes,No,Yes,No,Yes,I don't know,"Yes, I experienced",Maybe,Yes,8.0,Yes,Yes,Yes,1,,,Often,Often
+18.0,male/androgynous ,Canada,I don't know,1,,,,,,,,,I've always been self-employed,,,,Possibly,,Don't Know,0,Unsure,,Not applicable to me,Not applicable to me
+42.0,Male,Australia,Yes,0,More than 1000,1.0,Not eligible for coverage / NA,I don't know,,Yes,Yes,Very easy,"Yes, I observed",Yes,Yes,7.0,Yes,Yes,Yes,1,,,Rarely,Sometimes
+30.0,Male,United States of America,Yes,0,6-25,0.0,Yes,No,Yes,No,Yes,Somewhat easy,Maybe/Not sure,No,No,7.0,Possibly,,Possibly,1,,,Sometimes,Often
+29.0,M,United States of America,I don't know,0,100-500,1.0,Yes,Yes,No,Yes,I don't know,Very easy,No,Yes,Yes,6.0,Yes,Yes,Yes,1,,,Never,Sometimes
+27.0,Female,United States of America,Yes,0,More than 1000,1.0,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,No,Maybe,Yes,7.0,Yes,Yes,Possibly,1,,,Sometimes,Often
+39.0,Male,United States of America,Yes,0,More than 1000,1.0,Yes,Yes,Yes,Yes,Yes,Somewhat easy,"Yes, I experienced",Maybe,Maybe,9.0,Yes,Yes,Yes,1,,,Rarely,Often
+40.0,female,United States of America,Yes,0,100-500,1.0,Yes,No,Yes,Yes,Yes,Very easy,"Yes, I observed",No,Yes,5.0,No,,No,1,,,Not applicable to me,Not applicable to me
+36.0,female,United States of America,Yes,0,More than 1000,1.0,Yes,Yes,Yes,Yes,Yes,I don't know,Maybe/Not sure,Maybe,Maybe,7.0,Possibly,,Yes,1,,,Sometimes,Sometimes
+48.0,female,United States of America,No,1,,,,,,,,,I've always been self-employed,,,,Don't Know,,No,0,No,,Sometimes,Sometimes
+43.0,male,United States of America,No,0,More than 1000,1.0,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe/Not sure,Maybe,Yes,7.0,Don't Know,,Don't Know,0,,,Not applicable to me,Not applicable to me
+38.0,Man,United States of America,Yes,0,100-500,1.0,Yes,Yes,Yes,I don't know,Yes,Neither easy nor difficult,Maybe/Not sure,Maybe,Maybe,8.0,Yes,Yes,Yes,1,,,Sometimes,Often
+42.0,Male,United States of America,I don't know,0,26-100,1.0,I don't know,No,No,No,I don't know,Somewhat easy,No,Yes,Yes,6.0,No,,Yes,1,,,Not applicable to me,Not applicable to me
+46.0,Male,United Kingdom,I don't know,0,500-1000,1.0,No,Yes,,Yes,Yes,Neither easy nor difficult,"Yes, I experienced",Yes,Maybe,8.0,Yes,Yes,Possibly,1,,,Sometimes,Often
+30.0,male,United States of America,Yes,0,More than 1000,0.0,Yes,Yes,Yes,No,Yes,Difficult,"Yes, I observed",Yes,No,5.0,Yes,No,,1,,,Sometimes,Often
+25.0,Male,United Kingdom,Yes,0,6-25,0.0,No,No,Yes,No,No,Difficult,"Yes, I observed",Yes,No,4.0,Yes,Yes,Yes,1,,,Rarely,Often
+28.0,,Canada,Yes,0,500-1000,1.0,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe/Not sure,Maybe,Maybe,9.0,Don't Know,,No,0,,,Not applicable to me,Not applicable to me
+24.0,Female,Germany,Yes,0,100-500,1.0,Yes,No,Yes,No,I don't know,Neither easy nor difficult,"Yes, I observed",Yes,Maybe,5.0,Possibly,,Possibly,1,,,Not applicable to me,Not applicable to me
+26.0,male,United Kingdom,Yes,0,1-5,1.0,I don't know,No,No,No,I don't know,Difficult,No,No,Yes,3.0,No,,No,0,,,Not applicable to me,Not applicable to me
+43.0,cis hetero male,United States of America,Yes,0,More than 1000,1.0,Yes,Yes,Yes,No,I don't know,Somewhat easy,"Yes, I experienced",Maybe,Maybe,5.0,Yes,Yes,Yes,1,,,Sometimes,Often
+25.0,Female,United States of America,I don't know,0,More than 1000,0.0,Yes,Yes,Yes,No,I don't know,I don't know,No,No,No,8.0,Yes,Yes,Yes,1,,,Often,Often
+34.0,male,United States of America,Yes,0,More than 1000,0.0,Yes,I don't know,No,Yes,I don't know,I don't know,No,No,No,7.0,Yes,Yes,Yes,0,,,Rarely,Often
+28.0,female,United States of America,No,0,26-100,1.0,Yes,I don't know,Yes,Yes,Yes,Very easy,Maybe/Not sure,Yes,No,8.0,No,,No,0,,,Not applicable to me,Not applicable to me
+27.0,Male,South Africa,I don't know,0,26-100,1.0,No,No,,No,Yes,Somewhat difficult,"Yes, I experienced",Maybe,Yes,5.0,Yes,Yes,Possibly,1,,,Sometimes,Often
+22.0,Male,India,No,0,26-100,1.0,No,Yes,No,Yes,Yes,Somewhat easy,Maybe/Not sure,Yes,Maybe,6.0,Don't Know,,Don't Know,0,,,Sometimes,Sometimes
+24.0,female,Romania,Yes,0,26-100,1.0,I don't know,Yes,No,No,Yes,Very easy,No,Yes,No,8.0,No,,No,0,,,Not applicable to me,Not applicable to me
+33.0,female,Pakistan,No,1,,,,,,,,,No,,,,Yes,No,,0,Yes,76-100%,Sometimes,Often
+41.0,m,Germany,No,1,,,,,,,,,"Yes, I experienced",,,,Possibly,,Yes,1,No,,Not applicable to me,Often
+26.0,Female,United Kingdom,I don't know,0,26-100,1.0,No,I don't know,,No,I don't know,I don't know,"Yes, I observed",No,No,2.0,Possibly,,Possibly,0,,,Often,Often
+39.0,Male,United States of America,I don't know,1,,,,,,,,,"Yes, I experienced",,,,Yes,Yes,Yes,1,Yes,1-25%,Rarely,Often
+24.0,male,United States of America,No,0,1-5,1.0,I don't know,No,No,No,I don't know,Somewhat easy,Maybe/Not sure,Maybe,Maybe,1.0,Possibly,,Possibly,0,,,Not applicable to me,Often
+54.0,Male,United States of America,I don't know,0,More than 1000,1.0,I don't know,No,No,No,I don't know,I don't know,"Yes, I experienced",Yes,No,5.0,Yes,Yes,Yes,1,,,Sometimes,Sometimes
+47.0,m,United States of America,Yes,0,More than 1000,0.0,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,"Yes, I observed",Yes,Yes,7.0,Yes,Yes,Yes,1,,,Sometimes,Sometimes
+33.0,Male,Sweden,No,0,More than 1000,1.0,No,No,,No,I don't know,Very easy,No,Yes,Yes,8.0,No,,No,0,,,Not applicable to me,Not applicable to me
+30.0,,United States of America,Yes,0,100-500,1.0,Yes,No,Yes,No,Yes,Somewhat easy,No,Yes,Yes,6.0,Yes,Yes,No,1,,,Rarely,Often
+48.0,Male,United States of America,I don't know,0,More than 1000,0.0,Yes,I don't know,Yes,No,I don't know,I don't know,Maybe/Not sure,Maybe,No,5.0,Possibly,,Possibly,1,,,Rarely,Rarely
+35.0,male,United States of America,Yes,0,More than 1000,1.0,I don't know,Yes,No,I don't know,Yes,Somewhat easy,No,Yes,Yes,6.0,Possibly,,Possibly,1,,,Sometimes,Often
+34.0,Male,United States of America,I don't know,0,26-100,0.0,I don't know,I don't know,No,No,I don't know,Somewhat easy,"Yes, I observed",Yes,Yes,5.0,No,,No,0,,,Not applicable to me,Not applicable to me
+31.0,Male,Serbia,No,1,,,,,,,,,No,,,,No,,No,0,Not applicable to me,,Not applicable to me,Not applicable to me
+25.0,male,United States of America,Yes,0,500-1000,1.0,Yes,No,Yes,No,Yes,Somewhat easy,Maybe/Not sure,Maybe,Maybe,8.0,Possibly,,Possibly,0,,,Not applicable to me,Not applicable to me
+48.0,male,Spain,Yes,0,More than 1000,1.0,No,No,No,No,I don't know,Somewhat easy,Maybe/Not sure,Maybe,No,5.0,Yes,Yes,Yes,1,,,Never,Sometimes
+34.0,Male,United States of America,I don't know,0,100-500,0.0,Yes,I don't know,No,Yes,I don't know,I don't know,Maybe/Not sure,No,Maybe,7.0,Yes,Yes,Yes,1,,,Rarely,Often
+42.0,M,United States of America,Yes,0,100-500,1.0,Yes,No,Yes,No,I don't know,Difficult,"Yes, I observed",No,No,2.0,No,,Yes,1,,,Rarely,Sometimes
+27.0,Male,United States of America,Yes,0,100-500,1.0,I don't know,No,No,No,I don't know,Very easy,No,Yes,Maybe,5.0,Yes,Yes,Possibly,1,,,Rarely,Often
+33.0,Female,United States of America,Yes,0,More than 1000,1.0,Yes,No,Yes,No,Yes,Somewhat difficult,No,Maybe,Yes,8.0,Possibly,,No,1,,,Sometimes,Often
+27.0,Female,United States of America,I don't know,0,26-100,1.0,Yes,I don't know,Yes,No,I don't know,Very easy,"Yes, I observed",Yes,Maybe,5.0,Yes,Yes,Yes,1,,,Rarely,Often
+48.0,m,United States of America,I don't know,0,500-1000,1.0,Yes,No,No,No,I don't know,I don't know,Maybe/Not sure,Yes,No,4.0,Possibly,,Possibly,0,,,Sometimes,Rarely
+32.0,f,United States of America,I don't know,0,More than 1000,1.0,Yes,No,Yes,No,Yes,Somewhat easy,Maybe/Not sure,Maybe,Maybe,5.0,Yes,Yes,Yes,1,,,Sometimes,Often
+29.0,Male,United States of America,Yes,0,100-500,1.0,Yes,I don't know,No,Yes,I don't know,Somewhat difficult,Maybe/Not sure,Yes,Maybe,7.0,Yes,Yes,Yes,1,,,Sometimes,Often
+36.0,Female,United States of America,Yes,1,,,,,,,,,Maybe/Not sure,,,,Yes,No,,1,Yes,1-25%,Rarely,Often
+29.0,Female,United Kingdom,I don't know,1,,,,,,,,,Maybe/Not sure,,,,Yes,Yes,Yes,1,Yes,1-25%,Never,Sometimes
+23.0,female,Canada,No,0,100-500,1.0,I don't know,No,No,No,I don't know,Neither easy nor difficult,Maybe/Not sure,Maybe,Yes,7.0,Possibly,,Possibly,0,,,Sometimes,Sometimes
+50.0,Female,United States of America,I don't know,0,More than 1000,0.0,Yes,Yes,No,I don't know,Yes,Somewhat difficult,"Yes, I observed",No,Maybe,7.0,Possibly,,Yes,0,,,Rarely,Sometimes
+24.0,female,Jordan,No,1,,,,,,,,,Maybe/Not sure,,,,No,,No,0,No,,Never,Never
+29.0,Female,Hungary,No,0,6-25,1.0,No,No,No,No,I don't know,I don't know,No,No,No,6.0,No,,No,0,,,Not applicable to me,Not applicable to me
+42.0,female,United States of America,Yes,0,More than 1000,0.0,Yes,I don't know,No,I don't know,I don't know,Very easy,Maybe/Not sure,Maybe,Maybe,9.0,Possibly,,Possibly,0,,,Not applicable to me,Sometimes
+35.0,Male,Australia,No,1,,,,,,,,,No,,,,Possibly,,Possibly,1,Yes,1-25%,Not applicable to me,Sometimes
+22.0,Male,United States of America,I don't know,0,100-500,1.0,I don't know,I don't know,No,No,I don't know,Very easy,No,Maybe,Maybe,9.0,Don't Know,,No,0,,,Not applicable to me,Not applicable to me
+39.0,Female,United States of America,I don't know,0,500-1000,1.0,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Maybe/Not sure,Yes,Yes,10.0,Yes,Yes,Possibly,1,,,Rarely,Often
+29.0,femalw,Canada,Yes,0,6-25,1.0,Yes,No,No,No,I don't know,Somewhat difficult,"Yes, I observed",Yes,Yes,5.0,Possibly,,Possibly,1,,,Sometimes,Often
+20.0,Male,India,No,1,,,,,,,,,No,,,,No,,No,0,Not applicable to me,,Not applicable to me,Not applicable to me
+36.0,female,United Kingdom,Yes,0,1-5,0.0,Not eligible for coverage / NA,Yes,,Yes,I don't know,I don't know,No,Maybe,Maybe,8.0,Yes,Yes,Yes,1,,,Often,Often
+30.0,femail,Croatia,Yes,0,100-500,1.0,I don't know,No,No,No,I don't know,Somewhat easy,Maybe/Not sure,No,No,4.0,Yes,Yes,Yes,1,,,Sometimes,Sometimes
+36.0,male,United States of America,I don't know,1,,,,,,,,,"Yes, I observed",,,,No,,Possibly,1,Yes,51-75%,Not applicable to me,Not applicable to me
+31.0,Male,South Africa,Yes,0,6-25,1.0,No,No,,No,I don't know,Very easy,"Yes, I observed",Maybe,Yes,6.0,No,,Yes,1,,,Sometimes,Often
+28.0,male,United States of America,No,0,6-25,1.0,Yes,No,Yes,No,I don't know,I don't know,No,Maybe,Yes,2.0,Possibly,,Possibly,1,,,Sometimes,Often
+28.0,Male (cis),United States of America,I don't know,0,26-100,0.0,Yes,Yes,Yes,No,I don't know,Very easy,No,Maybe,Yes,7.0,No,,No,0,,,Not applicable to me,Not applicable to me
+25.0,Female,United States of America,Yes,0,More than 1000,0.0,I don't know,I don't know,Yes,No,I don't know,Difficult,Maybe/Not sure,Maybe,No,8.0,Yes,Yes,Yes,1,,,Rarely,Often
+30.0,male,Bulgaria,I don't know,0,26-100,1.0,I don't know,No,No,No,I don't know,Somewhat easy,No,Yes,Yes,5.0,Possibly,,Yes,1,,,Rarely,Sometimes
+45.0,m,New Zealand,Yes,1,,,,,,,,,Maybe/Not sure,,,,No,,Possibly,1,Yes,1-25%,Rarely,Sometimes
+31.0,Male,Italy,No,0,100-500,1.0,I don't know,No,No,No,Yes,Neither easy nor difficult,No,Yes,Yes,7.0,No,,No,0,,,Not applicable to me,Not applicable to me
+36.0,Male,Romania,No,0,100-500,1.0,No,No,No,No,Yes,Very easy,No,Maybe,No,7.0,No,,No,0,,,Not applicable to me,Not applicable to me
+37.0,male,Argentina,Yes,0,6-25,1.0,I don't know,No,No,No,Yes,Neither easy nor difficult,No,Maybe,Yes,7.0,No,,No,0,,,Not applicable to me,Not applicable to me
+37.0,Male,United States of America,No,0,26-100,1.0,Yes,I don't know,Yes,No,Yes,Somewhat easy,No,Maybe,Yes,7.0,No,,No,0,,,Not applicable to me,Not applicable to me
+28.0,male,Russia,No,1,,,,,,,,,No,,,,No,,Possibly,1,Yes,26-50%,Often,Often
+37.0,male,Spain,No,0,26-100,1.0,Not eligible for coverage / NA,No,Yes,No,Yes,Somewhat easy,No,Maybe,Maybe,0.0,No,,Possibly,1,,,Rarely,Rarely
+37.0,male,Bulgaria,No,0,26-100,1.0,No,No,,No,I don't know,Very easy,No,No,No,3.0,Don't Know,,No,0,,,Not applicable to me,Not applicable to me
+64.0,m,Australia,No,1,,,,,,,,,"Yes, I experienced",,,,Yes,Yes,Yes,1,Yes,26-50%,Sometimes,Often
+34.0,female,Germany,No,1,,,,,,,,,Maybe/Not sure,,,,No,,No,1,Unsure,,Not applicable to me,Not applicable to me
+34.0,Male,Greece,Yes,1,,,,,,,,,Maybe/Not sure,,,,Possibly,,Possibly,1,Yes,26-50%,Often,Often
+36.0,Male,Spain,Yes,1,,,,,,,,,No,,,,No,,No,0,Yes,76-100%,Not applicable to me,Not applicable to me
+26.0,m,Brazil,No,1,,,,,,,,,No,,,,No,,No,0,Unsure,,Not applicable to me,Not applicable to me
+33.0,male,Hungary,No,0,100-500,1.0,I don't know,No,No,No,I don't know,Somewhat difficult,No,No,No,6.0,Don't Know,,No,0,,,Not applicable to me,Not applicable to me
+47.0,f,United States of America,No,0,500-1000,1.0,Yes,No,No,No,I don't know,Very easy,No,No,No,7.0,No,,No,0,,,Not applicable to me,Never
+24.0,Female,United States of America,I don't know,0,100-500,1.0,I don't know,Yes,No,Yes,I don't know,Somewhat easy,No,Maybe,Maybe,7.0,Possibly,,Yes,1,,,Rarely,Sometimes
+26.0,Male,United States of America,Yes,0,100-500,1.0,Yes,I don't know,Yes,No,I don't know,I don't know,"Yes, I observed",Maybe,Maybe,7.0,Yes,Yes,Yes,1,,,Often,Often
+37.0,Male,Australia,I don't know,0,More than 1000,1.0,Yes,Yes,Yes,Yes,Yes,Very easy,"Yes, I observed",Maybe,Maybe,5.0,No,,Yes,1,,,Never,Never
+29.0,Male,United States of America,I don't know,0,More than 1000,1.0,Yes,No,Yes,Yes,No,Neither easy nor difficult,"Yes, I observed",Yes,No,7.0,Yes,Yes,Possibly,1,,,Sometimes,Often
+33.0,Female,United States of America,Yes,0,26-100,1.0,I don't know,No,No,No,I don't know,Somewhat difficult,"Yes, I experienced",No,Yes,8.0,Yes,Yes,Yes,1,,,Rarely,Often
+44.0,male,United States of America,Yes,0,More than 1000,1.0,Yes,Yes,No,Yes,I don't know,Somewhat easy,"Yes, I observed",Yes,No,8.0,Yes,Yes,Yes,1,,,Rarely,Often
+34.0,Female,United States of America,Yes,0,More than 1000,1.0,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,No,Maybe,Yes,8.0,No,,Yes,1,,,Rarely,Sometimes
+35.0,Male,United States of America,Yes,0,More than 1000,1.0,Yes,No,No,Yes,I don't know,I don't know,Maybe/Not sure,No,No,6.0,Don't Know,,No,0,,,Not applicable to me,Not applicable to me
+32.0,uhhhhhhhhh fem genderqueer?,United States of America,I don't know,0,100-500,1.0,Yes,I don't know,Yes,No,I don't know,Very easy,Maybe/Not sure,Yes,Yes,7.0,Yes,Yes,Yes,1,,,Sometimes,Often
+23.0,,Canada,Yes,1,,,,,,,,,I've always been self-employed,,,,Yes,Yes,Yes,1,Yes,51-75%,Sometimes,Often
+31.0,Male,United States of America,Yes,0,More than 1000,1.0,Yes,Yes,No,No,I don't know,I don't know,"Yes, I observed",Maybe,Yes,3.0,No,,Yes,0,,,Not applicable to me,Not applicable to me
+30.0,M,United States of America,Yes,0,100-500,1.0,Yes,No,Yes,No,Yes,Neither easy nor difficult,No,Maybe,Yes,6.0,Yes,Yes,Yes,1,,,Sometimes,Sometimes
+42.0,male (hey this is the tech industry you're talking about),United Kingdom,No,1,,,,,,,,,No,,,,No,,No,0,Not applicable to me,,Not applicable to me,Not applicable to me
+26.0,female (cis),United States of America,Yes,0,More than 1000,1.0,I don't know,Yes,No,No,I don't know,Somewhat difficult,"Yes, I experienced",Maybe,No,8.0,Yes,Yes,Yes,1,,,Rarely,Sometimes
+29.0,Female,Germany,Yes,0,100-500,0.0,Yes,No,Yes,No,I don't know,Somewhat easy,"Yes, I observed",Yes,Maybe,3.0,No,,Possibly,1,,,Rarely,Sometimes
+35.0,Male,United States of America,No,0,More than 1000,0.0,Yes,Yes,Yes,No,I don't know,Somewhat easy,"Yes, I observed",Maybe,Maybe,7.0,Possibly,,Possibly,0,,,Rarely,Sometimes
+31.0,Male,Spain,Yes,1,,,,,,,,,No,,,,No,,No,0,No,,Not applicable to me,Not applicable to me
+26.0,God King of the Valajar,United States of America,Yes,0,More than 1000,1.0,I don't know,I don't know,No,I don't know,I don't know,Somewhat easy,Maybe/Not sure,No,Maybe,8.0,No,,Don't Know,0,,,Not applicable to me,Not applicable to me
+30.0,Male,United States of America,Yes,0,100-500,1.0,I don't know,I don't know,No,No,I don't know,Neither easy nor difficult,No,No,Yes,6.0,Possibly,,Possibly,1,,,Rarely,Rarely
+39.0,M,United States of America,Yes,0,500-1000,0.0,Yes,No,Yes,No,Yes,Very easy,No,No,Yes,9.0,Don't Know,,Don't Know,0,,,Not applicable to me,Not applicable to me
+29.0,Male,Spain,No,0,26-100,1.0,No,I don't know,,No,Yes,Neither easy nor difficult,Maybe/Not sure,Maybe,Yes,9.0,Don't Know,,No,0,,,Not applicable to me,Not applicable to me
+27.0,Male,Spain,I don't know,0,26-100,1.0,No,No,,No,I don't know,I don't know,No,Yes,Yes,3.0,No,,No,0,,,Not applicable to me,Not applicable to me
+29.0,Male,Spain,No,0,26-100,1.0,No,No,,No,I don't know,I don't know,Maybe/Not sure,Maybe,Maybe,0.0,Don't Know,,Don't Know,0,,,Not applicable to me,Not applicable to me
+43.0,Male,Spain,Yes,0,26-100,1.0,No,No,,No,I don't know,Neither easy nor difficult,No,Yes,Yes,4.0,No,,No,0,,,Rarely,Often
+31.0,Male,Spain,No,0,6-25,1.0,No,No,No,No,I don't know,Somewhat easy,No,Yes,Yes,6.0,Don't Know,,No,0,,,Not applicable to me,Not applicable to me
+27.0,Female,Spain,No,0,26-100,1.0,No,No,No,No,No,Neither easy nor difficult,No,Yes,Yes,7.0,Don't Know,,No,0,,,Rarely,Often
+36.0,Male,Greece,Yes,0,26-100,1.0,Yes,Yes,No,No,I don't know,Somewhat easy,No,Yes,Yes,5.0,No,,No,0,,,Not applicable to me,Not applicable to me
+44.0,Female ,United States of America,Yes,0,500-1000,1.0,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe/Not sure,Yes,Yes,7.0,No,,Yes,1,,,Rarely,Sometimes
+44.0,Cis male,United States of America,Yes,0,More than 1000,1.0,Yes,Yes,Yes,Yes,Yes,Very easy,No,Yes,Yes,8.0,No,,No,0,,,Not applicable to me,Not applicable to me
+27.0,female,United States of America,No,0,More than 1000,1.0,Yes,Yes,Yes,No,Yes,Very easy,No,Yes,Yes,10.0,Yes,Yes,Yes,1,,,Sometimes,Often
+42.0,Female,United States of America,Yes,0,More than 1000,1.0,Yes,Yes,Yes,Yes,Yes,Very easy,"Yes, I experienced",Yes,Yes,8.0,Yes,Yes,Yes,1,,,Rarely,Often
+28.0,male,United States of America,Yes,0,More than 1000,1.0,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Maybe/Not sure,Yes,Yes,7.0,Yes,Yes,Yes,1,,,Rarely,Rarely
+43.0,Male,United States of America,No,0,6-25,0.0,Yes,Yes,Yes,Yes,Yes,Very easy,"Yes, I experienced",Maybe,Maybe,8.0,Yes,Yes,Yes,1,,,Sometimes,Sometimes
+28.0,Female,Canada,I don't know,1,,,,,,,,,"Yes, I experienced",,,,Yes,Yes,Yes,1,Yes,51-75%,Rarely,Often
+49.0,Female,United States of America,Yes,0,More than 1000,1.0,Yes,Yes,Yes,Yes,No,Very easy,"Yes, I observed",No,No,9.0,Yes,Yes,Yes,1,,,Rarely,Sometimes
+32.0,Male,France,I don't know,0,6-25,1.0,I don't know,No,No,No,I don't know,Neither easy nor difficult,Maybe/Not sure,Maybe,Maybe,5.0,Possibly,,Yes,1,,,Often,Often
+33.0,M,United States of America,I don't know,0,100-500,1.0,I don't know,I don't know,No,No,I don't know,I don't know,No,Maybe,Maybe,2.0,Don't Know,,Don't Know,0,,,Not applicable to me,Not applicable to me
+45.0,Male,United States of America,Yes,0,6-25,1.0,No,No,Yes,No,I don't know,Neither easy nor difficult,No,No,No,7.0,Possibly,,Possibly,0,,,Sometimes,Sometimes
+25.0,Female,United States of America,I don't know,0,26-100,1.0,I don't know,I don't know,No,No,I don't know,Difficult,No,Maybe,No,7.0,Yes,Yes,Yes,1,,,Sometimes,Often
+42.0,Male,United States of America,Yes,0,26-100,1.0,Yes,I don't know,Yes,No,I don't know,Difficult,No,No,Maybe,4.0,Yes,Yes,Yes,1,,,Often,Often
+25.0,Male,United States of America,Yes,0,6-25,1.0,Yes,No,No,No,I don't know,Neither easy nor difficult,"Yes, I observed",Yes,No,1.0,Don't Know,,No,0,,,Not applicable to me,Not applicable to me
+25.0,Female,United States of America,Yes,0,100-500,1.0,Yes,I don't know,No,No,I don't know,Difficult,No,Maybe,Maybe,6.0,Possibly,,No,1,,,Sometimes,Sometimes
+31.0,Female,Ireland,Yes,0,500-1000,1.0,Yes,Yes,Yes,Yes,I don't know,I don't know,Maybe/Not sure,Yes,Maybe,7.0,No,,Possibly,0,,,Not applicable to me,Not applicable to me
+22.0,Female,United States of America,I don't know,0,26-100,0.0,Yes,No,Yes,Yes,I don't know,I don't know,No,No,No,8.0,No,,No,0,,,Not applicable to me,Not applicable to me
+33.0,f,United States of America,Yes,1,,,,,,,,,"Yes, I observed",,,,Yes,Yes,Yes,1,Yes,26-50%,Sometimes,Often
+40.0,Male,India,Yes,0,More than 1000,1.0,No,No,No,No,No,Difficult,Maybe/Not sure,Yes,Yes,5.0,Yes,No,,0,,,Sometimes,Sometimes
+28.0,Male,United States of America,I don't know,0,26-100,1.0,I don't know,No,No,No,I don't know,Neither easy nor difficult,Maybe/Not sure,Yes,Maybe,10.0,Possibly,,Don't Know,1,,,Rarely,Sometimes
+37.0,Male,United States of America,I don't know,0,100-500,1.0,I don't know,I don't know,No,No,I don't know,Somewhat easy,Maybe/Not sure,Maybe,Yes,2.0,Possibly,,Possibly,0,,,Not applicable to me,Not applicable to me
+35.0,Male,Canada,I don't know,0,More than 1000,1.0,Yes,No,No,No,I don't know,Difficult,"Yes, I observed",No,No,9.0,Yes,Yes,Yes,1,,,Often,Often
+47.0,Male,United States of America,No,1,,,,,,,,,"Yes, I experienced",,,,Yes,Yes,Yes,1,Yes,1-25%,Sometimes,Often
+20.0,Male,United Kingdom,Yes,0,26-100,1.0,I don't know,No,No,No,I don't know,Somewhat difficult,No,Maybe,Maybe,7.0,Possibly,,Don't Know,0,,,Not applicable to me,Sometimes
+27.0,Female,Spain,No,0,More than 1000,1.0,Yes,No,No,No,No,Very easy,No,Maybe,No,10.0,No,,Possibly,0,,,Sometimes,Often
+62.0,Female,United States of America,No,0,100-500,0.0,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,"Yes, I observed",No,No,9.0,No,,Possibly,0,,,Rarely,Rarely
+42.0,male,United States of America,No,1,,,,,,,,,No,,,,No,,No,0,Yes,26-50%,Not applicable to me,Not applicable to me
+35.0,Male,United States of America,I don't know,1,,,,,,,,,"Yes, I observed",,,,Yes,Yes,Yes,1,Yes,26-50%,Sometimes,Often
+29.0,Male,Germany,I don't know,0,26-100,1.0,I don't know,I don't know,No,No,I don't know,Neither easy nor difficult,Maybe/Not sure,No,Maybe,8.0,Possibly,,Possibly,0,,,Not applicable to me,Sometimes
+37.0,Male,United Kingdom,Yes,0,More than 1000,1.0,Yes,Yes,Yes,Yes,Yes,Somewhat easy,"Yes, I experienced",No,No,7.0,Yes,Yes,Yes,1,,,Sometimes,Often
+51.0,Male,United States of America,Yes,0,More than 1000,1.0,Yes,I don't know,No,No,I don't know,Somewhat difficult,"Yes, I observed",Maybe,Maybe,5.0,Yes,Yes,Yes,1,,,Sometimes,Often
+60.0,Male,United States of America,Yes,0,More than 1000,0.0,Yes,Yes,Yes,Yes,Yes,I don't know,"Yes, I observed",Maybe,Yes,8.0,No,,Possibly,1,,,Not applicable to me,Not applicable to me
+30.0,F,United States of America,I don't know,1,,,,,,,,,Maybe/Not sure,,,,Yes,Yes,Possibly,1,Yes,1-25%,Rarely,Sometimes
+36.0,f,United States of America,Yes,0,100-500,1.0,Yes,I don't know,No,No,Yes,Somewhat easy,Maybe/Not sure,Maybe,Maybe,10.0,Yes,Yes,Yes,0,,,Sometimes,Often
+38.0,m,United States of America,I don't know,0,26-100,1.0,I don't know,I don't know,No,I don't know,I don't know,Neither easy nor difficult,Maybe/Not sure,Maybe,Yes,7.0,Don't Know,,Possibly,1,,,Not applicable to me,Not applicable to me
+30.0,Woman,Mexico,No,0,100-500,1.0,I don't know,Yes,No,Yes,I don't know,Neither easy nor difficult,No,Maybe,Yes,8.0,Possibly,,Yes,1,,,Sometimes,Sometimes
+35.0,Male,United Kingdom,Yes,0,100-500,1.0,I don't know,Yes,No,Yes,I don't know,Very easy,Maybe/Not sure,Yes,Yes,5.0,Yes,Yes,Yes,1,,,Often,Often
+50.0,female,United Kingdom,I don't know,1,,,,,,,,,Maybe/Not sure,,,,No,,Yes,1,Yes,1-25%,Rarely,Often
+41.0,Male,United Kingdom,Yes,0,More than 1000,1.0,Yes,Yes,Yes,Yes,Yes,Very easy,No,Yes,Yes,9.0,No,,Yes,1,,,Rarely,Sometimes
+58.0,female,United States of America,Yes,1,,,,,,,,,Maybe/Not sure,,,,Yes,Yes,Yes,1,Yes,51-75%,Sometimes,Often
+27.0,Male,United States of America,No,0,1-5,0.0,I don't know,No,No,No,I don't know,I don't know,Maybe/Not sure,Maybe,Maybe,8.0,Yes,Yes,No,1,,,Not applicable to me,Sometimes
+53.0,man,Switzerland,No,0,100-500,0.0,No,No,No,No,Yes,Neither easy nor difficult,Maybe/Not sure,Yes,Yes,5.0,No,,Yes,1,,,Never,Never
+42.0,Female,United States of America,I don't know,0,6-25,0.0,Yes,No,No,No,I don't know,Somewhat difficult,Maybe/Not sure,Maybe,No,3.0,Possibly,,Don't Know,0,,,Rarely,Sometimes
+33.0,male,Germany,Yes,0,26-100,0.0,No,No,Yes,No,I don't know,Neither easy nor difficult,No,Maybe,Yes,3.0,No,,Possibly,0,,,Rarely,Sometimes
+25.0,Nonbinary,United States of America,Yes,0,100-500,1.0,Yes,Yes,Yes,No,Yes,Somewhat easy,"Yes, I experienced",Maybe,No,6.0,Yes,Yes,Yes,1,,,Rarely,Often
+40.0,Male,United States of America,Yes,0,6-25,1.0,I don't know,I don't know,No,No,Yes,Very easy,No,Maybe,Yes,6.0,No,,No,1,,,Never,Rarely
+25.0,My sex is female.,United States of America,Yes,0,6-25,0.0,Yes,Yes,Yes,No,Yes,Very easy,No,Yes,Yes,10.0,Yes,Yes,Yes,1,,,Sometimes,Often
+49.0,female,United States of America,No,0,100-500,1.0,I don't know,No,No,No,I don't know,I don't know,"Yes, I observed",Maybe,No,6.0,No,,No,0,,,Not applicable to me,Not applicable to me
+44.0,Female,United States of America,Yes,0,6-25,1.0,No,No,,No,No,Difficult,"Yes, I experienced",Maybe,No,3.0,Yes,Yes,Yes,1,,,Sometimes,Often
+30.0,Male,United States of America,No,0,100-500,1.0,I don't know,No,No,No,I don't know,Difficult,Maybe/Not sure,Yes,No,6.0,Yes,Yes,Yes,1,,,Sometimes,Sometimes
+28.0,Male,United States of America,Yes,0,100-500,1.0,Yes,I don't know,No,I don't know,I don't know,I don't know,Maybe/Not sure,No,Maybe,5.0,Possibly,,Possibly,0,,,Not applicable to me,Often
+26.0,M,United States of America,Yes,0,100-500,1.0,Yes,I don't know,Yes,I don't know,I don't know,I don't know,Maybe/Not sure,Maybe,Maybe,7.0,Possibly,,Yes,1,,,Rarely,Often
+31.0,Male,United States of America,Yes,0,26-100,1.0,Yes,Yes,No,Yes,Yes,Somewhat easy,No,Yes,Yes,7.0,Yes,Yes,Yes,1,,,Sometimes,Sometimes
+32.0,Male,United States of America,Yes,0,6-25,1.0,Yes,No,No,No,No,Very easy,No,Yes,Yes,4.0,Yes,Yes,Yes,1,,,Sometimes,Often
+24.0,Male,United States of America,No,0,100-500,1.0,I don't know,I don't know,No,I don't know,I don't know,Very easy,No,Maybe,Maybe,5.0,Don't Know,,No,0,,,Not applicable to me,Not applicable to me
+34.0,male,United States of America,Yes,0,100-500,1.0,I don't know,I don't know,No,No,I don't know,Somewhat difficult,"Yes, I observed",Maybe,Yes,5.0,Possibly,,Possibly,0,,,Not applicable to me,Not applicable to me
+31.0,female,United States of America,Yes,0,100-500,1.0,Yes,I don't know,Yes,No,Yes,Very easy,Maybe/Not sure,Maybe,Yes,7.0,Yes,Yes,Yes,1,,,Sometimes,Often
+47.0,Male,United States of America,No,0,100-500,1.0,Yes,Yes,Yes,Yes,I don't know,Very easy,No,Maybe,Yes,9.0,No,,No,0,,,Not applicable to me,Not applicable to me
+59.0,male,United States of America,I don't know,0,100-500,1.0,Yes,I don't know,No,No,Yes,Neither easy nor difficult,No,Maybe,Maybe,8.0,No,,No,0,,,Not applicable to me,Not applicable to me
+44.0,male,United States of America,Yes,0,100-500,1.0,I don't know,No,No,I don't know,I don't know,Somewhat easy,"Yes, I observed",Yes,Yes,6.0,Yes,Yes,Yes,1,,,Rarely,Often
+26.0,Male,United States of America,No,0,100-500,1.0,No,No,No,No,I don't know,Neither easy nor difficult,No,No,No,3.0,No,,No,0,,,Not applicable to me,Not applicable to me
+43.0,Male,United States of America,No,1,,,,,,,,,No,,,,Yes,Yes,Yes,1,Yes,51-75%,Often,Often
+39.0,Male,United Kingdom,I don't know,1,,,,,,,,,No,,,,Don't Know,,Don't Know,0,Yes,1-25%,Not applicable to me,Not applicable to me
+43.0,M,United States of America,I don't know,0,1-5,1.0,I don't know,No,No,Yes,Yes,Neither easy nor difficult,No,Yes,Yes,5.0,Possibly,,Don't Know,0,,,Sometimes,Often
+40.0,Male,United Kingdom,I don't know,1,,,,,,,,,No,,,,Yes,Yes,Yes,1,Yes,26-50%,Sometimes,Often
+22.0,male,Germany,I don't know,0,1-5,1.0,I don't know,No,No,No,No,Somewhat difficult,Maybe/Not sure,No,No,5.0,Possibly,,No,0,,,Not applicable to me,Often
+24.0,m,Netherlands,No,0,6-25,1.0,Not eligible for coverage / NA,No,,No,No,Very easy,No,Maybe,Yes,7.0,Yes,Yes,No,0,,,Rarely,Rarely
+35.0,male,United States of America,Yes,0,500-1000,1.0,I don't know,I don't know,No,No,I don't know,Somewhat easy,"Yes, I observed",Maybe,No,8.0,Yes,Yes,Yes,1,,,Sometimes,Often
+40.0,Male,United States of America,No,0,26-100,1.0,I don't know,No,No,No,No,I don't know,No,Maybe,Yes,8.0,No,,No,0,,,Not applicable to me,Not applicable to me
+26.0,Male,Canada,Yes,1,,,,,,,,,No,,,,Possibly,,Yes,1,Yes,1-25%,Rarely,Often
+23.0,Male,Brazil,Yes,1,,,,,,,,,Maybe/Not sure,,,,Yes,Yes,Yes,1,Yes,1-25%,Rarely,Often
+30.0,Male,United States of America,Yes,0,100-500,0.0,I don't know,No,No,No,Yes,Somewhat easy,No,Maybe,Yes,5.0,No,,Yes,1,,,Rarely,Sometimes
+37.0,Male,United States of America,I don't know,0,500-1000,0.0,Yes,I don't know,Yes,I don't know,Yes,Very easy,No,Yes,Maybe,9.0,Don't Know,,No,0,,,Not applicable to me,Not applicable to me
+27.0,Male,United States of America,No,0,1-5,1.0,No,No,No,No,I don't know,Somewhat easy,No,No,Yes,4.0,Yes,Yes,Yes,1,,,Sometimes,Sometimes
+42.0,male,United States of America,I don't know,0,100-500,1.0,Yes,Yes,Yes,No,Yes,Somewhat difficult,No,Maybe,No,5.0,Possibly,,Yes,1,,,Sometimes,Sometimes
+49.0,Male,United States of America,No,0,100-500,1.0,Yes,Yes,Yes,Yes,I don't know,I don't know,No,Maybe,Yes,8.0,Possibly,,Yes,1,,,Sometimes,Sometimes
+40.0,Male,United States of America,I don't know,0,26-100,1.0,Yes,I don't know,No,No,I don't know,Neither easy nor difficult,No,Maybe,Yes,7.0,Yes,Yes,Possibly,1,,,Rarely,Often
+26.0,female,United States of America,Yes,0,100-500,1.0,Yes,Yes,Yes,No,Yes,Very easy,"Yes, I experienced",Maybe,Yes,5.0,Yes,Yes,Yes,1,,,Sometimes,Often
+29.0,Male,United States of America,Yes,0,500-1000,1.0,Yes,Yes,Yes,Yes,Yes,Somewhat easy,"Yes, I observed",Yes,Yes,8.0,Yes,Yes,Possibly,1,,,Rarely,Often
+39.0,F,United States of America,Yes,0,26-100,1.0,Yes,I don't know,Yes,Yes,Yes,Somewhat difficult,Maybe/Not sure,Maybe,Maybe,9.0,No,,No,0,,,Not applicable to me,Not applicable to me
+40.0,M,United States of America,Yes,0,More than 1000,0.0,Yes,I don't know,Yes,I don't know,Yes,Somewhat difficult,No,Maybe,Yes,6.0,Yes,Yes,Yes,1,,,Rarely,Often
+23.0,male,Ukraine,No,0,26-100,1.0,No,No,No,No,I don't know,Somewhat easy,No,No,Yes,8.0,Don't Know,,No,0,,,Not applicable to me,Not applicable to me
+50.0,M,United States of America,No,0,26-100,1.0,I don't know,I don't know,No,I don't know,I don't know,Neither easy nor difficult,Maybe/Not sure,No,Maybe,9.0,No,,No,0,,,Not applicable to me,Not applicable to me
+35.0,Male,United States of America,No,0,More than 1000,0.0,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe/Not sure,Maybe,Maybe,6.0,Yes,Yes,Yes,1,,,Never,Rarely
+24.0,Male,Mexico,I don't know,0,100-500,1.0,Yes,Yes,Yes,No,I don't know,Neither easy nor difficult,"Yes, I observed",No,Maybe,8.0,Possibly,,Yes,1,,,Not applicable to me,Not applicable to me
+35.0,female,United States of America,Yes,0,26-100,1.0,Yes,I don't know,Yes,Yes,I don't know,Somewhat easy,"Yes, I experienced",No,No,8.0,Yes,Yes,Yes,1,,,Rarely,Sometimes
+36.0,Male,United States of America,I don't know,0,26-100,1.0,I don't know,No,No,No,Yes,Very easy,No,No,Yes,10.0,No,,Possibly,0,,,Not applicable to me,Not applicable to me
+50.0,Female,United States of America,I don't know,0,26-100,1.0,Yes,I don't know,No,I don't know,No,I don't know,"Yes, I observed",Maybe,Yes,10.0,No,,No,0,,,Sometimes,Often
+47.0,female,United States of America,No,0,26-100,1.0,I don't know,I don't know,No,No,I don't know,I don't know,No,Yes,Maybe,6.0,No,,No,0,,,Not applicable to me,Not applicable to me
+30.0,m,United States of America,No,0,26-100,1.0,Yes,No,No,No,I don't know,Neither easy nor difficult,"Yes, I experienced",Maybe,Maybe,6.0,No,,No,0,,,Not applicable to me,Not applicable to me
+30.0,m,United States of America,Yes,0,100-500,1.0,Yes,Yes,No,I don't know,I don't know,Somewhat easy,Maybe/Not sure,Maybe,Maybe,8.0,Yes,Yes,Yes,1,,,Sometimes,Often
+32.0,Male,United States of America,Yes,0,100-500,1.0,Yes,Yes,Yes,No,Yes,I don't know,No,Yes,Yes,5.0,Yes,Yes,Yes,1,,,Often,Often
+38.0,,United States of America,Yes,0,100-500,1.0,Yes,Yes,Yes,Yes,Yes,Very easy,No,Maybe,Maybe,8.0,Yes,Yes,Yes,1,,,Rarely,Sometimes
+38.0,Male,United States of America,Yes,0,26-100,1.0,I don't know,No,No,No,I don't know,Neither easy nor difficult,No,Yes,Maybe,6.0,Yes,Yes,Yes,1,,,Sometimes,Often
+38.0,Male,United States of America,Yes,0,100-500,1.0,Yes,I don't know,Yes,I don't know,I don't know,Neither easy nor difficult,Maybe/Not sure,Maybe,Yes,5.0,Yes,Yes,Yes,1,,,Sometimes,Often
+26.0,Female,United States of America,No,0,More than 1000,1.0,Yes,Yes,Yes,I don't know,Yes,Neither easy nor difficult,No,Maybe,Yes,8.0,No,,No,0,,,Not applicable to me,Not applicable to me
+45.0,female,United States of America,Yes,0,More than 1000,1.0,Yes,No,Yes,No,No,Difficult,"Yes, I experienced",No,No,3.0,Yes,Yes,Yes,1,,,Often,Often
+37.0,Female,United States of America,No,0,500-1000,1.0,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Maybe,5.0,Possibly,,Don't Know,0,,,Not applicable to me,Not applicable to me
+24.0,Female,United States of America,Yes,0,100-500,1.0,I don't know,I don't know,No,No,Yes,I don't know,No,Maybe,No,9.0,Yes,Yes,Yes,1,,,Sometimes,Often
+33.0,Female,United States of America,Yes,0,100-500,1.0,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe/Not sure,Maybe,Yes,9.0,Yes,Yes,Yes,1,,,Sometimes,Often
+35.0,female,United States of America,Yes,0,100-500,1.0,Yes,Yes,Yes,I don't know,I don't know,I don't know,"Yes, I observed",Maybe,Yes,7.0,No,,No,0,,,Not applicable to me,Not applicable to me
+44.0,Male,United States of America,Yes,0,100-500,1.0,Yes,Yes,Yes,No,Yes,Neither easy nor difficult,No,Yes,Yes,6.0,No,,Yes,1,,,Not applicable to me,Not applicable to me
+27.0,female,United States of America,Yes,0,100-500,1.0,I don't know,No,No,No,I don't know,Neither easy nor difficult,No,Yes,Yes,5.0,Yes,Yes,Yes,1,,,Often,Rarely
+33.0,Male,United States of America,No,0,100-500,1.0,Yes,Yes,No,No,I don't know,Very easy,"Yes, I observed",Maybe,No,5.0,No,,No,0,,,Not applicable to me,Not applicable to me
+28.0,Female,United States of America,No,0,100-500,1.0,I don't know,No,No,I don't know,Yes,Very easy,No,Maybe,Maybe,7.0,No,,No,0,,,Not applicable to me,Not applicable to me
+35.0,Male,United States of America,Yes,0,More than 1000,0.0,Yes,I don't know,Yes,I don't know,Yes,I don't know,Maybe/Not sure,Maybe,Maybe,7.0,Yes,Yes,Don't Know,1,,,Sometimes,Often
+23.0,Male,United States of America,No,0,More than 1000,1.0,Yes,Yes,Yes,No,Yes,Somewhat difficult,"Yes, I observed",Maybe,Yes,8.0,Yes,Yes,Yes,1,,,Sometimes,Often
+53.0,Male,Australia,I don't know,1,,,,,,,,,"Yes, I experienced",,,,Yes,Yes,Possibly,1,Yes,26-50%,Sometimes,Sometimes
+32.0,Male,Netherlands,I don't know,0,6-25,1.0,Yes,No,Yes,No,Yes,Somewhat easy,Maybe/Not sure,Maybe,Yes,7.0,Yes,Yes,Yes,1,,,Sometimes,Often
+24.0,male,Germany,Yes,1,,,,,,,,,"Yes, I observed",,,,No,,Yes,1,Yes,51-75%,Rarely,Often
+31.0,Male,Sweden,No,0,100-500,1.0,Yes,I don't know,No,No,I don't know,Very easy,No,Yes,Yes,10.0,No,,Yes,1,,,Not applicable to me,Not applicable to me
+33.0,Male,Ireland,I don't know,0,6-25,1.0,No,No,,No,I don't know,Very easy,Maybe/Not sure,Yes,Yes,6.0,Yes,Yes,Yes,0,,,Sometimes,Often
+37.0,Male,United Kingdom,No,0,100-500,1.0,No,No,,No,Yes,Very easy,"Yes, I experienced",Yes,Yes,7.0,Yes,Yes,Yes,1,,,Sometimes,Sometimes
+27.0,male,Switzerland,No,0,6-25,1.0,I don't know,No,No,No,I don't know,Somewhat easy,"Yes, I observed",No,Maybe,9.0,No,,No,0,,,Not applicable to me,Not applicable to me
+31.0,male,Netherlands,No,0,6-25,1.0,Yes,I don't know,No,No,No,Neither easy nor difficult,Maybe/Not sure,Yes,Yes,7.0,No,,No,0,,,Not applicable to me,Not applicable to me
+32.0,Male,Ukraine,I don't know,1,,,,,,,,,Maybe/Not sure,,,,Don't Know,,No,0,Yes,26-50%,Not applicable to me,Not applicable to me
+40.0,Male,United Kingdom,I don't know,0,More than 1000,1.0,No,No,No,No,I don't know,Somewhat difficult,Maybe/Not sure,Maybe,Maybe,9.0,Possibly,,Possibly,1,,,Not applicable to me,Not applicable to me
+32.0,Male,Spain,No,0,More than 1000,1.0,No,No,Yes,No,I don't know,Very easy,No,Yes,Yes,8.0,No,,Yes,1,,,Rarely,Often
+31.0,Male,India,I don't know,1,,,,,,,,,No,,,,Don't Know,,Don't Know,1,Yes,51-75%,Sometimes,Not applicable to me
+33.0,Male,United States of America,Yes,0,100-500,1.0,Yes,Yes,No,Yes,Yes,Very easy,Maybe/Not sure,Yes,Yes,8.0,Yes,Yes,Yes,1,,,Sometimes,Often
+21.0,,United States of America,I don't know,0,6-25,1.0,I don't know,No,No,No,I don't know,Somewhat difficult,No,Yes,Yes,0.0,Possibly,,Yes,1,,,Sometimes,Sometimes
+67.0,female,United States of America,No,1,,,,,,,,,"Yes, I experienced",,,,Possibly,,Yes,1,Yes,26-50%,Often,Sometimes
+35.0,Cis-male,United Kingdom,Yes,1,,,,,,,,,I've always been self-employed,,,,Yes,Yes,Yes,1,Yes,76-100%,Often,Often
+46.0,male,Ireland,I don't know,1,,,,,,,,,No,,,,No,,No,0,Unsure,,Often,Sometimes
+36.0,Male,United States of America,I don't know,0,More than 1000,0.0,Yes,I don't know,No,No,I don't know,Somewhat difficult,Maybe/Not sure,Maybe,No,6.0,Yes,Yes,Possibly,1,,,Sometimes,Often
+44.0,f,Australia,Yes,0,6-25,1.0,No,No,No,Yes,I don't know,Somewhat easy,No,Maybe,Yes,7.0,Yes,Yes,Yes,1,,,Sometimes,Often
+57.0,Male,United States of America,I don't know,0,More than 1000,0.0,Yes,Yes,No,Yes,Yes,Somewhat easy,No,Maybe,Yes,9.0,Possibly,,Don't Know,0,,,Not applicable to me,Not applicable to me
+38.0,female,United States of America,I don't know,0,6-25,1.0,I don't know,No,No,No,I don't know,I don't know,No,Maybe,Maybe,5.0,No,,No,0,,,Not applicable to me,Not applicable to me
+27.0,female,United States of America,Yes,0,100-500,1.0,Yes,No,No,No,I don't know,Somewhat easy,No,Yes,Yes,9.0,Possibly,,Possibly,1,,,Sometimes,Sometimes
+26.0,Male,Australia,Yes,0,More than 1000,0.0,Not eligible for coverage / NA,Yes,,Yes,Yes,Somewhat easy,No,Yes,Yes,5.0,Yes,Yes,Yes,1,,,Rarely,Often
+36.0,m,United States of America,No,0,More than 1000,1.0,Yes,Yes,No,Yes,I don't know,Neither easy nor difficult,Maybe/Not sure,Maybe,Maybe,6.0,Possibly,,Yes,1,,,Rarely,Often
+30.0,Male,United Kingdom,Yes,0,1-5,1.0,Not eligible for coverage / NA,No,,Yes,Yes,Somewhat easy,Maybe/Not sure,Yes,Yes,7.0,No,,Possibly,0,,,Rarely,Rarely
+35.0,Male,United Kingdom,Yes,0,More than 1000,1.0,Yes,Yes,Yes,I don't know,I don't know,Very easy,"Yes, I experienced",Yes,Yes,5.0,Yes,No,,1,,,Not applicable to me,Sometimes
+30.0,Male,Argentina,No,0,26-100,1.0,No,No,No,No,I don't know,Very easy,No,Yes,Maybe,9.0,Don't Know,,No,0,,,Rarely,Sometimes
+32.0,Male,New Zealand,Yes,0,26-100,1.0,No,No,,No,I don't know,Neither easy nor difficult,Maybe/Not sure,Yes,Maybe,5.0,Don't Know,,No,0,,,Not applicable to me,Not applicable to me
+35.0,male,France,No,0,100-500,1.0,I don't know,No,No,No,I don't know,Neither easy nor difficult,Maybe/Not sure,No,No,8.0,Don't Know,,No,0,,,Not applicable to me,Not applicable to me
+33.0,Male,Australia,No,0,500-1000,1.0,Yes,I don't know,Yes,No,I don't know,Very easy,No,Yes,Yes,8.0,No,,No,0,,,Not applicable to me,Not applicable to me
+48.0,Male,New Zealand,No,0,6-25,1.0,No,No,,No,I don't know,Very easy,Maybe/Not sure,Maybe,Yes,5.0,No,,No,0,,,Not applicable to me,Not applicable to me
+32.0,Male,Netherlands,No,0,26-100,1.0,No,No,Yes,No,I don't know,Somewhat easy,Maybe/Not sure,No,No,8.0,No,,No,0,,,Not applicable to me,Not applicable to me
+45.0,M,United Kingdom,Yes,0,100-500,1.0,I don't know,No,No,No,I don't know,Somewhat easy,"Yes, I observed",Maybe,No,5.0,Yes,Yes,Yes,1,,,Rarely,Often
+31.0,male,Romania,No,0,500-1000,1.0,I don't know,No,No,No,I don't know,I don't know,No,Maybe,No,5.0,No,,No,0,,,Not applicable to me,Not applicable to me
+40.0,Male,Spain,No,0,More than 1000,0.0,I don't know,I don't know,No,Yes,I don't know,Very easy,"Yes, I experienced",No,Maybe,9.0,No,,No,0,,,Not applicable to me,Not applicable to me
+37.0,male,United States of America,I don't know,0,26-100,0.0,I don't know,No,No,No,I don't know,Very easy,No,Maybe,Maybe,6.0,No,,No,0,,,Not applicable to me,Not applicable to me
+29.0,male,Poland,No,0,100-500,1.0,No,No,No,No,I don't know,I don't know,Maybe/Not sure,No,No,7.0,No,,No,0,,,Not applicable to me,Not applicable to me
+26.0,male,United States of America,Yes,0,100-500,1.0,Yes,I don't know,Yes,Yes,Yes,Very easy,Maybe/Not sure,Maybe,No,7.0,Yes,Yes,Yes,1,,,Sometimes,Often
+51.0,Female,United States of America,I don't know,0,100-500,1.0,Yes,Yes,Yes,Yes,Yes,Somewhat easy,"Yes, I experienced",Maybe,Yes,6.0,Possibly,,Yes,1,,,Rarely,Sometimes
+29.0,male,Germany,No,1,,,,,,,,,"Yes, I experienced",,,,Yes,Yes,Yes,1,Yes,26-50%,Rarely,Sometimes
+30.0,Male,United Kingdom,Yes,1,,,,,,,,,"Yes, I experienced",,,,Yes,Yes,Yes,1,Yes,1-25%,Often,Often
+33.0,female,United States of America,No,0,26-100,1.0,Yes,No,Yes,Yes,I don't know,I don't know,"Yes, I experienced",Yes,Yes,6.0,No,,Possibly,0,,,Not applicable to me,Not applicable to me
+27.0,Male,United States of America,Yes,0,100-500,1.0,Yes,No,Yes,No,Yes,Neither easy nor difficult,"Yes, I experienced",Yes,Maybe,7.0,Yes,Yes,Yes,1,,,Sometimes,Often
+42.0,Male,United States of America,I don't know,0,6-25,1.0,Yes,I don't know,No,No,I don't know,Somewhat difficult,"Yes, I experienced",No,No,3.0,No,,No,0,,,Not applicable to me,Not applicable to me
+47.0,male,Australia,No,0,6-25,1.0,Not eligible for coverage / NA,No,,Yes,Yes,Neither easy nor difficult,"Yes, I observed",Maybe,Yes,7.0,No,,No,0,,,Not applicable to me,Not applicable to me
+31.0,Female,Netherlands,I don't know,0,26-100,1.0,Not eligible for coverage / NA,I don't know,,Yes,I don't know,Very easy,No,Yes,Yes,7.0,Yes,Yes,Possibly,1,,,Never,Sometimes
+32.0,Male,United Kingdom,No,0,More than 1000,0.0,I don't know,Yes,No,Yes,Yes,Somewhat easy,No,Maybe,Yes,10.0,No,,No,0,,,Not applicable to me,Not applicable to me
+60.0,Male ,Netherlands,No,1,,,,,,,,,I've always been self-employed,,,,No,,No,0,Not applicable to me,,Not applicable to me,Not applicable to me
+58.0,Male,Belgium,Yes,0,100-500,1.0,I don't know,No,No,No,I don't know,Somewhat easy,"Yes, I observed",Maybe,Maybe,5.0,No,,Yes,0,,,Rarely,Sometimes
+38.0,Male,Belgium,Yes,1,,,,,,,,,"Yes, I observed",,,,No,,No,0,Yes,26-50%,Not applicable to me,Not applicable to me
+42.0,female,Spain,I don't know,0,6-25,1.0,No,No,,No,I don't know,Somewhat difficult,No,No,No,1.0,Don't Know,,Don't Know,0,,,Not applicable to me,Not applicable to me
+41.0,Male,Germany,Yes,0,100-500,1.0,I don't know,No,,I don't know,I don't know,Neither easy nor difficult,No,No,No,9.0,Yes,Yes,Yes,1,,,Rarely,Often
+25.0,Male,India,No,0,More than 1000,1.0,Yes,No,Yes,No,Yes,Very easy,"Yes, I experienced",No,No,8.0,Possibly,,Possibly,0,,,Sometimes,Rarely
+31.0,Female,United States of America,No,0,More than 1000,1.0,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe/Not sure,No,Yes,9.0,No,,Yes,1,,,Often,Often
+42.0,male,Argentina,No,1,,,,,,,,,No,,,,Don't Know,,Possibly,1,Not applicable to me,,Not applicable to me,Not applicable to me
+42.0,Male,United States of America,I don't know,0,26-100,1.0,No,No,No,No,I don't know,Somewhat easy,Maybe/Not sure,Maybe,Yes,7.0,Yes,Yes,Don't Know,1,,,Rarely,Sometimes
+41.0,Male,United States of America,No,0,More than 1000,1.0,Yes,Yes,Yes,No,Yes,Difficult,"Yes, I experienced",No,No,4.0,Yes,Yes,Yes,0,,,Often,Often
+35.0,Non-binary,United States of America,Yes,0,More than 1000,1.0,Yes,Yes,Yes,No,Yes,Very easy,Maybe/Not sure,No,Maybe,8.0,Yes,Yes,Yes,1,,,Sometimes,Often
+24.0,Male,Mexico,No,0,More than 1000,1.0,Yes,No,Yes,No,No,Neither easy nor difficult,"Yes, I observed",No,Maybe,9.0,Don't Know,,Yes,1,,,Not applicable to me,Not applicable to me
+37.0,Male,United States of America,Yes,0,More than 1000,1.0,Yes,Yes,No,Yes,I don't know,I don't know,"Yes, I observed",Maybe,Maybe,10.0,Yes,Yes,No,1,,,Never,Often
+32.0,Male,Japan,No,0,More than 1000,1.0,I don't know,I don't know,,Yes,I don't know,Neither easy nor difficult,"Yes, I observed",No,No,5.0,Don't Know,,No,0,,,Not applicable to me,Not applicable to me
+34.0,M,India,No,0,500-1000,0.0,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe/Not sure,Yes,Yes,8.0,No,,No,0,,,Rarely,Rarely
+37.0,Male,Singapore,No,0,More than 1000,0.0,No,No,No,No,I don't know,Somewhat difficult,No,No,Maybe,5.0,No,,Yes,1,,,Not applicable to me,Sometimes
+38.0,Male,France,No,1,,,,,,,,,Maybe/Not sure,,,,Don't Know,,No,0,Not applicable to me,,Not applicable to me,Not applicable to me
+30.0,male,United States of America,I don't know,0,26-100,1.0,No,No,No,I don't know,I don't know,Difficult,Maybe/Not sure,No,Maybe,7.0,Possibly,,Possibly,1,,,Sometimes,Often
+27.0,Male,France,I don't know,0,More than 1000,1.0,I don't know,No,No,No,I don't know,I don't know,No,No,No,2.0,Don't Know,,Don't Know,0,,,Not applicable to me,Not applicable to me
+41.0,Female,United States of America,No,0,More than 1000,0.0,Yes,I don't know,No,No,I don't know,Neither easy nor difficult,No,No,No,7.0,No,,No,0,,,Not applicable to me,Not applicable to me
+41.0,M,United States of America,I don't know,0,6-25,1.0,I don't know,No,No,No,I don't know,Somewhat easy,No,No,Maybe,7.0,Possibly,,Yes,1,,,Rarely,Rarely
+39.0,male,United States of America,No,0,26-100,1.0,Yes,I don't know,No,No,I don't know,Difficult,Maybe/Not sure,No,Maybe,8.0,No,,No,0,,,Not applicable to me,Not applicable to me
+42.0,male,United States of America,No,0,More than 1000,1.0,Yes,I don't know,Yes,No,I don't know,Somewhat easy,"Yes, I experienced",Maybe,Maybe,9.0,Yes,Yes,Yes,1,,,Sometimes,Often
+28.0,Female,United States of America,Yes,0,1-5,1.0,Yes,No,No,No,Yes,Very easy,Maybe/Not sure,Yes,Yes,8.0,Yes,Yes,Yes,1,,,Rarely,Sometimes
+29.0,Male,United States of America,No,0,6-25,1.0,No,No,No,No,I don't know,Difficult,No,Maybe,No,7.0,Yes,Yes,Yes,1,,,Sometimes,Often
+41.0,"Male, cis",Australia,Yes,1,,,,,,,,,"Yes, I observed",,,,Possibly,,Possibly,1,Yes,1-25%,Sometimes,Often
+46.0,Male,United States of America,No,0,More than 1000,1.0,Yes,I don't know,No,No,I don't know,Very easy,No,Yes,Maybe,5.0,No,,Yes,1,,,Not applicable to me,Not applicable to me
+38.0,Male,Spain,Yes,0,500-1000,1.0,Yes,No,Yes,I don't know,No,Somewhat difficult,"Yes, I observed",Yes,Yes,2.0,No,,No,0,,,Not applicable to me,Not applicable to me
+34.0,Male,United States of America,No,0,More than 1000,1.0,Yes,Yes,Yes,Yes,Yes,Very easy,No,Maybe,Maybe,8.0,Don't Know,,No,0,,,Rarely,Rarely
+28.0,Male,Germany,Yes,0,6-25,1.0,Yes,No,No,No,I don't know,I don't know,Maybe/Not sure,Yes,Yes,7.0,Yes,Yes,Yes,1,,,Sometimes,Often
+28.0,Female ,Netherlands,Yes,0,26-100,1.0,No,No,No,No,I don't know,Difficult,Maybe/Not sure,No,No,2.0,Yes,Yes,Yes,1,,,Rarely,Sometimes
+38.0,cis male ,Germany,No,0,26-100,1.0,Yes,No,Yes,No,Yes,Somewhat easy,"Yes, I observed",Yes,Yes,5.0,No,,Possibly,1,,,Rarely,Not applicable to me
+33.0,Male,United States of America,Yes,0,More than 1000,0.0,Yes,No,No,No,I don't know,Somewhat easy,No,Yes,Maybe,8.0,Yes,Yes,Yes,1,,,Rarely,Often
+38.0,female,United States of America,I don't know,0,26-100,1.0,Yes,No,Yes,No,Yes,I don't know,Maybe/Not sure,Maybe,Maybe,6.0,Don't Know,,Possibly,0,,,Rarely,Often
+48.0,Male,United States of America,No,0,100-500,0.0,I don't know,I don't know,No,No,I don't know,Somewhat easy,No,Maybe,Maybe,5.0,Yes,Yes,Yes,1,,,Rarely,Sometimes
+44.0,Woman,France,I don't know,0,1-5,1.0,No,No,No,No,Yes,Very easy,"Yes, I experienced",Maybe,Maybe,10.0,No,,No,0,,,Not applicable to me,Not applicable to me
+34.0,Male,United States of America,Yes,0,More than 1000,1.0,Yes,Yes,Yes,Yes,I don't know,Very easy,No,Yes,Yes,8.0,Possibly,,Yes,1,,,Rarely,Rarely
+29.0,Female,United States of America,No,0,100-500,1.0,No,No,No,No,I don't know,I don't know,"Yes, I experienced",Maybe,No,7.0,Yes,Yes,Yes,1,,,Sometimes,Often
+39.0,male,United Kingdom,Yes,0,More than 1000,0.0,No,Yes,No,I don't know,I don't know,Somewhat easy,Maybe/Not sure,No,No,7.0,Yes,Yes,Yes,1,,,Sometimes,Often
+41.0,m,Slovakia,No,0,100-500,1.0,I don't know,I don't know,No,No,I don't know,I don't know,No,Maybe,No,6.0,Don't Know,,Possibly,0,,,Rarely,Never
+33.0,Male,United States of America,Yes,0,100-500,1.0,Yes,Yes,No,No,Yes,Very easy,No,Maybe,No,5.0,No,,No,0,,,Not applicable to me,Not applicable to me
+31.0,male,Germany,I don't know,1,,,,,,,,,"Yes, I observed",,,,No,,Possibly,0,Not applicable to me,,Rarely,Not applicable to me
+44.0,Male,France,No,0,More than 1000,1.0,Yes,Yes,No,Yes,Yes,Very easy,"Yes, I experienced",No,No,6.0,Don't Know,,Don't Know,0,,,Not applicable to me,Not applicable to me
+33.0,Female,United States of America,Yes,0,100-500,0.0,I don't know,No,No,No,I don't know,Somewhat easy,No,No,No,6.0,Yes,Yes,Yes,1,,,Often,Often
+26.0,Agender/genderfluid,Austria,No,0,26-100,1.0,I don't know,I don't know,No,No,I don't know,Somewhat difficult,"Yes, I observed",Maybe,No,3.0,Possibly,,Possibly,0,,,Not applicable to me,Often
+28.0,Male,South Africa,No,0,26-100,1.0,Not eligible for coverage / NA,No,,No,I don't know,Somewhat easy,No,Maybe,Yes,7.0,No,,No,0,,,Not applicable to me,Not applicable to me
+32.0,Female,United States of America,I don't know,0,6-25,1.0,Yes,No,Yes,No,I don't know,Somewhat difficult,No,Maybe,Maybe,6.0,Possibly,,Possibly,0,,,Not applicable to me,Not applicable to me
+35.0,Female,Ireland,No,0,More than 1000,1.0,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe/Not sure,Yes,Maybe,5.0,No,,No,0,,,Not applicable to me,Not applicable to me
+40.0,Male,France,No,0,More than 1000,0.0,I don't know,Yes,No,Yes,Yes,Very easy,No,Yes,Yes,8.0,No,,Possibly,0,,,Not applicable to me,Not applicable to me
+30.0,Male,United States of America,I don't know,0,500-1000,0.0,I don't know,I don't know,No,No,Yes,Somewhat easy,No,Maybe,Yes,5.0,Yes,Yes,No,1,,,Rarely,Often
+34.0,Male,United States of America,Yes,0,More than 1000,1.0,I don't know,I don't know,No,I don't know,I don't know,Somewhat easy,No,Maybe,Yes,9.0,Possibly,,Possibly,0,,,Not applicable to me,Sometimes
+21.0,Male,United States of America,I don't know,0,26-100,1.0,I don't know,I don't know,No,I don't know,I don't know,Somewhat easy,Maybe/Not sure,Yes,Maybe,8.0,No,,No,0,,,Not applicable to me,Not applicable to me
+37.0,male,France,Yes,0,More than 1000,0.0,Yes,I don't know,Yes,No,Yes,Very easy,"Yes, I observed",No,Yes,6.0,Yes,Yes,Possibly,1,,,Sometimes,Often
+27.0,Male,Belarus,No,1,,,,,,,,,No,,,,No,,No,0,No,,Not applicable to me,Not applicable to me
+37.0,Male,United States of America,No,1,,,,,,,,,No,,,,No,,No,0,Unsure,,Not applicable to me,Not applicable to me
+33.0,Male,United Kingdom,I don't know,0,100-500,1.0,Yes,Yes,Yes,Yes,Yes,Very easy,No,Yes,Yes,7.0,Yes,Yes,Yes,1,,,Sometimes,Sometimes
+28.0,Male,United States of America,Yes,0,More than 1000,1.0,Yes,Yes,Yes,Yes,Yes,I don't know,No,Yes,Yes,7.0,Possibly,,No,1,,,Not applicable to me,Not applicable to me
+41.0,male,United States of America,I don't know,0,More than 1000,1.0,Yes,Yes,No,Yes,Yes,I don't know,"Yes, I observed",Maybe,Yes,7.0,Don't Know,,Don't Know,0,,,Not applicable to me,Not applicable to me
+34.0,male,Germany,No,0,26-100,1.0,No,No,,No,Yes,Somewhat easy,No,Maybe,Maybe,3.0,No,,No,0,,,Not applicable to me,Not applicable to me
+37.0,Male,United Kingdom,Yes,1,,,,,,,,,"Yes, I observed",,,,No,,No,0,Yes,1-25%,Not applicable to me,Not applicable to me
+28.0,Male,United States of America,I don't know,0,More than 1000,1.0,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,"Yes, I observed",Maybe,Yes,6.0,Yes,Yes,Possibly,1,,,Rarely,Sometimes
+52.0,Male,Germany,No,0,More than 1000,0.0,No,No,,No,I don't know,Somewhat difficult,"Yes, I observed",Maybe,Maybe,6.0,Possibly,,Possibly,0,,,Not applicable to me,Not applicable to me
+39.0,Male,United Kingdom,No,0,100-500,1.0,I don't know,I don't know,No,No,I don't know,Very easy,No,Maybe,Yes,5.0,No,,No,0,,,Not applicable to me,Not applicable to me
+45.0,Male,United States of America,I don't know,0,6-25,1.0,Yes,No,No,No,I don't know,Difficult,No,No,No,1.0,Possibly,,Possibly,0,,,Not applicable to me,Often
+50.0,Male,Netherlands,No,1,,,,,,,,,I've always been self-employed,,,,No,,No,0,Unsure,,Not applicable to me,Not applicable to me
+27.0,Male,France,I don't know,0,100-500,1.0,I don't know,No,No,No,I don't know,Neither easy nor difficult,"Yes, I experienced",Maybe,Maybe,3.0,Possibly,,Don't Know,1,,,Rarely,Often
+31.0,f,United States of America,I don't know,0,More than 1000,1.0,Yes,Yes,Yes,No,I don't know,Neither easy nor difficult,No,No,Maybe,7.0,Yes,Yes,Yes,1,,,Often,Often
+44.0,Male,Netherlands,I don't know,0,100-500,1.0,I don't know,No,,No,I don't know,I don't know,Maybe/Not sure,Maybe,Maybe,0.0,Possibly,,Possibly,0,,,Not applicable to me,Sometimes
+31.0,male,France,Yes,0,6-25,1.0,Yes,I don't know,No,No,I don't know,Somewhat easy,"Yes, I observed",Maybe,No,6.0,No,,No,0,,,Not applicable to me,Not applicable to me
+23.0,Male-ish,Russia,No,0,1-5,1.0,No,No,,No,No,Difficult,"Yes, I observed",No,No,2.0,Possibly,,Possibly,0,,,Not applicable to me,Often
+23.0,Male,United States of America,I don't know,0,100-500,1.0,Yes,Yes,Yes,No,I don't know,I don't know,Maybe/Not sure,Yes,Yes,8.0,Yes,Yes,Yes,1,,,Sometimes,Often
+38.0,Male,France,I don't know,0,100-500,1.0,I don't know,I don't know,No,No,I don't know,I don't know,Maybe/Not sure,Maybe,No,2.0,No,,Possibly,0,,,Not applicable to me,Not applicable to me
+37.0,male,United States of America,Yes,0,26-100,1.0,I don't know,I don't know,No,No,I don't know,I don't know,Maybe/Not sure,No,Maybe,7.0,Possibly,,Don't Know,0,,,Not applicable to me,Sometimes
+33.0,Male,France,No,0,6-25,1.0,Yes,No,No,No,I don't know,Somewhat easy,Maybe/Not sure,Maybe,Maybe,6.0,No,,No,0,,,Rarely,Never
+34.0,Male,United States of America,I don't know,1,,,,,,,,,"Yes, I observed",,,,Yes,Yes,Possibly,1,Unsure,,Rarely,Sometimes
+47.0,Male ,United States of America,No,0,More than 1000,0.0,Yes,I don't know,Yes,Yes,I don't know,Somewhat difficult,No,No,No,3.0,Possibly,,Possibly,1,,,Sometimes,Sometimes
+29.0,Female,United States of America,Yes,0,26-100,1.0,I don't know,I don't know,No,No,I don't know,Somewhat easy,No,No,Maybe,6.0,Don't Know,,No,0,,,Not applicable to me,Not applicable to me
+38.0,male,United States of America,No,0,More than 1000,0.0,Yes,Yes,No,I don't know,I don't know,Neither easy nor difficult,Maybe/Not sure,Maybe,Maybe,2.0,No,,No,0,,,Not applicable to me,Not applicable to me
+29.0,Male,Canada,No,0,100-500,1.0,I don't know,No,No,No,I don't know,Somewhat easy,No,Maybe,Maybe,8.0,Don't Know,,Don't Know,0,,,Not applicable to me,Not applicable to me
+37.0,Male,United States of America,I don't know,0,100-500,1.0,I don't know,No,No,No,I don't know,Somewhat easy,No,Yes,Yes,6.0,Yes,Yes,Yes,1,,,Sometimes,Often
+39.0,M,India,No,1,,,,,,,,,I've always been self-employed,,,,Yes,Yes,Don't Know,1,Yes,26-50%,Sometimes,Often
+29.0,Female,United States of America,Yes,0,100-500,1.0,Yes,Yes,Yes,Yes,Yes,Somewhat easy,"Yes, I observed",Yes,Maybe,8.0,Yes,Yes,Yes,1,,,Sometimes,Often
+57.0,f,Canada,Yes,1,,,,,,,,,"Yes, I observed",,,,Yes,Yes,Yes,1,Yes,26-50%,Sometimes,Sometimes
+27.0,Female,United States of America,Yes,0,6-25,1.0,Not eligible for coverage / NA,I don't know,,I don't know,I don't know,Somewhat easy,Maybe/Not sure,Yes,Yes,8.0,Yes,Yes,Yes,1,,,Rarely,Often
+38.0,Female,United States of America,No,0,More than 1000,0.0,I don't know,No,No,No,I don't know,I don't know,No,Yes,Yes,7.0,No,,No,0,,,Not applicable to me,Not applicable to me
+39.0,male,France,I don't know,1,,,,,,,,,"Yes, I observed",,,,No,,Yes,1,Unsure,,Not applicable to me,Not applicable to me
+29.0,Male,Switzerland,Yes,0,More than 1000,1.0,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,Yes,Yes,9.0,Yes,Yes,Yes,1,,,Rarely,Often
+24.0,Male,United Kingdom,Yes,0,100-500,0.0,No,No,,No,No,Somewhat difficult,Maybe/Not sure,No,No,5.0,Yes,Yes,Yes,1,,,Rarely,Sometimes
+30.0,female,United Kingdom,Yes,0,26-100,1.0,No,No,No,Yes,I don't know,Somewhat easy,"Yes, I experienced",Yes,Yes,10.0,Yes,Yes,Yes,1,,,Not applicable to me,Often
+32.0,Male,United States of America,I don't know,0,500-1000,1.0,Yes,Yes,Yes,Yes,Yes,Somewhat easy,"Yes, I observed",Maybe,Maybe,8.0,Possibly,,Don't Know,0,,,Not applicable to me,Not applicable to me
+37.0,M,United States of America,Yes,0,100-500,1.0,Yes,I don't know,Yes,Yes,Yes,Somewhat easy,No,Yes,Yes,7.0,Yes,Yes,Possibly,1,,,Rarely,Sometimes
+34.0,male,New Zealand,No,0,6-25,1.0,No,No,No,No,I don't know,Somewhat easy,No,Maybe,No,8.0,No,,Don't Know,0,,,Not applicable to me,Not applicable to me
+52.0,m,United States of America,Yes,0,100-500,1.0,Yes,Yes,Yes,Yes,Yes,Very easy,No,Yes,Yes,7.0,No,,No,1,,,Not applicable to me,Not applicable to me
+36.0,Male,United States of America,Yes,0,100-500,0.0,Yes,I don't know,Yes,No,I don't know,Difficult,No,No,No,8.0,Yes,Yes,Possibly,0,,,Sometimes,Often
+52.0,Male,United States of America,No,0,100-500,0.0,Yes,I don't know,No,No,Yes,Neither easy nor difficult,"Yes, I experienced",Maybe,No,5.0,Yes,Yes,Yes,1,,,Sometimes,Often
+49.0,Female,United States of America,No,0,100-500,1.0,Yes,No,Yes,No,Yes,Very easy,No,Yes,Maybe,10.0,No,,No,0,,,Not applicable to me,Not applicable to me
+30.0,male,United States of America,I don't know,0,More than 1000,1.0,Yes,Yes,Yes,I don't know,I don't know,I don't know,"Yes, I observed",Maybe,Maybe,10.0,Yes,Yes,Yes,1,,,Sometimes,Often
+41.0,male,Australia,Yes,0,6-25,1.0,Not eligible for coverage / NA,No,No,No,I don't know,Very easy,No,Yes,Yes,5.0,Yes,Yes,Yes,1,,,Sometimes,Often
+29.0,Male,United States of America,Yes,0,More than 1000,0.0,I don't know,I don't know,No,No,I don't know,Somewhat easy,Maybe/Not sure,Yes,Yes,9.0,Possibly,,No,0,,,Rarely,Sometimes
+37.0,,United States of America,No,0,More than 1000,1.0,Yes,Yes,Yes,Yes,I don't know,Very easy,"Yes, I observed",No,No,7.0,Yes,Yes,No,1,,,Sometimes,Often
+29.0,Female,United States of America,Yes,0,100-500,1.0,Yes,Yes,Yes,Yes,Yes,Very easy,No,Yes,Maybe,8.0,Yes,Yes,Possibly,1,,,Sometimes,Often
+39.0,female,United States of America,Yes,0,500-1000,1.0,Yes,Yes,Yes,No,Yes,Very easy,No,Yes,Yes,8.0,Yes,Yes,Yes,1,,,Rarely,Often
+30.0,F,United States of America,Yes,0,100-500,1.0,Yes,Yes,Yes,Yes,I don't know,Very easy,Maybe/Not sure,Yes,Yes,5.0,Yes,Yes,Yes,1,,,Often,Often
+23.0,woman,United States of America,Yes,0,26-100,1.0,Yes,No,Yes,Yes,Yes,Somewhat easy,"Yes, I observed",Yes,Yes,10.0,Yes,Yes,Yes,1,,,Rarely,Often
+29.0,f,United States of America,I don't know,0,More than 1000,1.0,Yes,Yes,No,Yes,Yes,Somewhat easy,"Yes, I observed",No,Maybe,7.0,Possibly,,No,1,,,Rarely,Sometimes
+38.0,Male,United States of America,Yes,0,26-100,1.0,Yes,I don't know,Yes,No,Yes,Very easy,No,Maybe,Yes,7.0,Yes,Yes,Yes,1,,,Sometimes,Often
+41.0,female,United States of America,Yes,0,More than 1000,1.0,Yes,No,Yes,No,I don't know,I don't know,"Yes, I experienced",No,No,7.0,Yes,Yes,Yes,1,,,Sometimes,Often
+47.0,Male,United States of America,No,0,100-500,1.0,Yes,Yes,Yes,No,I don't know,Very easy,"Yes, I observed",Yes,Yes,5.0,No,,No,0,,,Not applicable to me,Not applicable to me
+56.0,Woman,United States of America,Yes,0,6-25,1.0,Yes,No,Yes,No,I don't know,Somewhat difficult,Maybe/Not sure,No,Maybe,7.0,Yes,Yes,Yes,1,,,Sometimes,Sometimes
+22.0,Male,United States of America,I don't know,0,100-500,1.0,I don't know,I don't know,No,No,I don't know,Difficult,"Yes, I observed",No,No,4.0,Possibly,,Possibly,0,,,Rarely,Often
+32.0,female,United States of America,Yes,0,100-500,1.0,Yes,Yes,Yes,Yes,Yes,Very easy,No,Yes,Yes,7.0,Yes,Yes,Yes,1,,,Sometimes,Often
+30.0,female,United States of America,Yes,0,6-25,1.0,I don't know,No,No,No,No,Somewhat easy,"Yes, I observed",Maybe,No,5.0,Yes,Yes,Yes,1,,,Sometimes,Often
+31.0,sometimes,United States of America,Yes,0,100-500,1.0,Yes,No,No,No,I don't know,Neither easy nor difficult,"Yes, I experienced",No,No,7.0,Yes,Yes,Yes,1,,,Sometimes,Often
+36.0,M,United States of America,No,0,100-500,1.0,Yes,Yes,Yes,I don't know,Yes,Very easy,No,Yes,Yes,7.0,Yes,Yes,Yes,1,,,Rarely,Often
+32.0,Male,United States of America,Yes,0,100-500,1.0,Yes,I don't know,Yes,No,Yes,Somewhat easy,"Yes, I experienced",Yes,Maybe,5.0,Yes,Yes,Yes,1,,,Sometimes,Often
+37.0,Female,United States of America,Yes,0,6-25,1.0,Yes,No,Yes,No,I don't know,Somewhat easy,Maybe/Not sure,Yes,Yes,10.0,Yes,Yes,Yes,1,,,Sometimes,Often
+29.0,Male,United States of America,I don't know,0,6-25,0.0,I don't know,No,No,No,Yes,Somewhat difficult,Maybe/Not sure,No,Maybe,8.0,Possibly,,Yes,1,,,Rarely,Rarely
+31.0,Female,United States of America,I don't know,0,26-100,1.0,Yes,No,Yes,No,I don't know,Somewhat easy,No,No,No,3.0,Yes,Yes,No,1,,,Rarely,Often
+39.0,Male,United States of America,Yes,0,100-500,1.0,Yes,Yes,Yes,No,I don't know,Neither easy nor difficult,No,Maybe,Maybe,5.0,Yes,Yes,Yes,1,,,Not applicable to me,Sometimes
+36.0,Male,Japan,Yes,0,100-500,0.0,I don't know,Yes,No,Yes,No,Neither easy nor difficult,Maybe/Not sure,Maybe,Yes,7.0,Don't Know,,No,0,,,Sometimes,Often
+27.0,,United States of America,I don't know,1,,,,,,,,,"Yes, I experienced",,,,Yes,Yes,Yes,1,Yes,26-50%,Rarely,Often
+38.0,Male,United Kingdom,No,0,More than 1000,1.0,I don't know,I don't know,No,No,I don't know,Neither easy nor difficult,No,Maybe,No,7.0,No,,No,0,,,Sometimes,Rarely
+37.0,male,United States of America,Yes,1,,,,,,,,,Maybe/Not sure,,,,Yes,Yes,Don't Know,1,Yes,1-25%,Sometimes,Often
+33.0,female,United States of America,No,0,100-500,1.0,Yes,Yes,No,Yes,Yes,Somewhat easy,No,Yes,Maybe,9.0,No,,Yes,1,,,Rarely,Sometimes
+38.0,Male,Turkey,I don't know,0,6-25,1.0,No,No,No,I don't know,I don't know,Neither easy nor difficult,Maybe/Not sure,Yes,Yes,8.0,Possibly,,Possibly,0,,,Sometimes,Often
+36.0,female (cisgender),United States of America,Yes,0,100-500,1.0,Yes,I don't know,No,Yes,I don't know,Neither easy nor difficult,No,Yes,Yes,5.0,Possibly,,Yes,1,,,Sometimes,Often
+30.0,Female,United States of America,I don't know,0,100-500,1.0,No,No,,No,I don't know,Somewhat easy,"Yes, I experienced",Maybe,Maybe,0.0,No,,No,0,,,Not applicable to me,Not applicable to me
+38.0,Male,United States of America,I don't know,0,26-100,1.0,Yes,Yes,Yes,Yes,I don't know,Somewhat difficult,No,Yes,Yes,6.0,Yes,Yes,Yes,1,,,Often,Often
+35.0,female,Canada,Yes,0,26-100,1.0,No,No,,No,I don't know,Somewhat easy,Maybe/Not sure,Maybe,No,6.0,Yes,Yes,Possibly,1,,,Rarely,Often
+26.0,Male,United States of America,Yes,0,6-25,1.0,Yes,No,No,No,Yes,Somewhat difficult,No,Yes,Yes,7.0,Yes,Yes,Yes,1,,,Rarely,Often
+25.0,Male,United Kingdom,No,0,100-500,0.0,I don't know,Yes,Yes,No,Yes,I don't know,Maybe/Not sure,Maybe,Yes,7.0,Possibly,,No,0,,,Rarely,Not applicable to me
+40.0,male,United States of America,I don't know,0,100-500,1.0,Not eligible for coverage / NA,Yes,Yes,Yes,Yes,Somewhat difficult,Maybe/Not sure,No,No,7.0,No,,Yes,1,,,Sometimes,Often
+31.0,Male,Canada,I don't know,0,6-25,1.0,Yes,No,Yes,No,Yes,Very easy,"Yes, I observed",Maybe,Yes,6.0,No,,No,0,,,Not applicable to me,Not applicable to me
+49.0,Male,United States of America,I don't know,0,26-100,1.0,Yes,I don't know,No,No,I don't know,Neither easy nor difficult,Maybe/Not sure,Maybe,Maybe,8.0,Possibly,,Possibly,1,,,Rarely,Rarely
+30.0,Male,Netherlands,Yes,0,26-100,1.0,I don't know,No,No,No,I don't know,Very easy,No,Maybe,No,7.0,Possibly,,No,0,,,Not applicable to me,Not applicable to me
+35.0,Male,United States of America,No,0,100-500,0.0,I don't know,I don't know,No,No,I don't know,I don't know,No,Maybe,Maybe,5.0,Don't Know,,Don't Know,0,,,Not applicable to me,Not applicable to me
+46.0,Male,United States of America,Yes,0,100-500,0.0,Yes,No,Yes,Yes,I don't know,I don't know,"Yes, I observed",Yes,Yes,3.0,Yes,Yes,Yes,1,,,Rarely,Often
+29.0,Female,United States of America,Yes,0,100-500,1.0,I don't know,I don't know,Yes,No,Yes,Neither easy nor difficult,No,Maybe,Yes,10.0,Possibly,,Don't Know,1,,,Rarely,Sometimes
+22.0,Male,United States of America,Yes,0,26-100,0.0,Yes,No,Yes,No,I don't know,Very easy,No,No,No,2.0,Yes,Yes,Yes,1,,,Sometimes,Often
+50.0,female,United States of America,Yes,0,100-500,1.0,Yes,Yes,,No,Yes,Very easy,Maybe/Not sure,Yes,Maybe,7.0,Yes,Yes,Yes,1,,,Rarely,Sometimes
+39.0,male,United States of America,No,0,6-25,1.0,I don't know,I don't know,No,No,I don't know,Very easy,No,Yes,Yes,5.0,Possibly,,Don't Know,0,,,Rarely,Rarely
+40.0,Male,United Kingdom,No,0,6-25,0.0,No,Yes,No,Yes,I don't know,Neither easy nor difficult,Maybe/Not sure,Maybe,Maybe,9.0,Yes,Yes,Yes,1,,,Sometimes,Often
+31.0,Male,United States of America,Yes,0,100-500,1.0,Yes,Yes,Yes,I don't know,I don't know,I don't know,No,Maybe,Maybe,5.0,No,,Yes,1,,,Sometimes,Sometimes
+38.0,Male,United States of America,No,1,,,,,,,,,No,,,,Yes,Yes,Yes,1,Yes,1-25%,Sometimes,Often
+45.0,Male,United States of America,Yes,0,More than 1000,0.0,Yes,I don't know,Yes,No,I don't know,Difficult,"Yes, I experienced",No,No,9.0,Yes,Yes,Yes,1,,,Sometimes,Often
+31.0,Female,United States of America,Yes,0,100-500,1.0,Yes,Yes,No,I don't know,I don't know,Somewhat easy,Maybe/Not sure,Maybe,No,5.0,Yes,Yes,Yes,1,,,Rarely,Often
+25.0,f,United States of America,No,0,100-500,1.0,Yes,Yes,Yes,No,Yes,Very easy,No,Maybe,Yes,5.0,Don't Know,,Don't Know,1,,,Rarely,Not applicable to me
+28.0,Female,United States of America,Yes,0,500-1000,0.0,I don't know,No,Yes,No,Yes,I don't know,No,Maybe,No,10.0,Yes,Yes,Yes,1,,,Rarely,Often
+37.0,Male,United Kingdom,No,0,More than 1000,1.0,Yes,Yes,No,Yes,I don't know,I don't know,Maybe/Not sure,Maybe,Maybe,7.0,Possibly,,Possibly,0,,,Sometimes,Sometimes
+54.0,M,United States of America,No,0,1-5,1.0,No,No,,No,No,Neither easy nor difficult,No,Maybe,Maybe,6.0,Possibly,,No,0,,,Sometimes,Sometimes
+45.0,Female,United States of America,Yes,0,More than 1000,1.0,Yes,Yes,Yes,Yes,Yes,I don't know,No,No,No,10.0,Yes,Yes,Yes,1,,,Rarely,Sometimes
+36.0,Male,United States of America,Yes,0,500-1000,1.0,Yes,No,Yes,No,I don't know,I don't know,No,Yes,Yes,5.0,Yes,Yes,Yes,1,,,Rarely,Often
+34.0,Female,United States of America,I don't know,0,More than 1000,0.0,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Maybe/Not sure,Maybe,Maybe,6.0,Yes,Yes,Yes,1,,,Sometimes,Often
+28.0,Male,United States of America,Yes,0,100-500,1.0,Yes,Yes,Yes,Yes,Yes,Very easy,No,Maybe,Maybe,10.0,No,,No,0,,,Not applicable to me,Not applicable to me
+32.0,Male,United States of America,I don't know,0,More than 1000,0.0,Yes,Yes,Yes,No,Yes,Somewhat easy,No,Maybe,Yes,6.0,Possibly,,Possibly,0,,,Rarely,Sometimes
+40.0,male,Netherlands,No,1,,,,,,,,,Maybe/Not sure,,,,No,,No,0,Yes,1-25%,Not applicable to me,Not applicable to me
+52.0,Female (cis) ,United States of America,Yes,0,500-1000,1.0,I don't know,Yes,No,I don't know,I don't know,Difficult,"Yes, I observed",Maybe,Maybe,7.0,Yes,Yes,Yes,1,,,Rarely,Sometimes
+33.0,Male,United States of America,I don't know,0,26-100,1.0,I don't know,No,No,No,I don't know,Somewhat difficult,No,Maybe,Yes,5.0,Possibly,,No,0,,,Not applicable to me,Not applicable to me
+41.0,Female,United States of America,Yes,0,100-500,1.0,Yes,I don't know,No,No,I don't know,Somewhat easy,Maybe/Not sure,Yes,Maybe,7.0,Yes,Yes,Yes,1,,,Sometimes,Sometimes
+25.0,Female,United States of America,No,0,100-500,1.0,Yes,Yes,No,Yes,Yes,Somewhat easy,No,Maybe,Maybe,10.0,No,,No,0,,,Not applicable to me,Not applicable to me
+33.0,Woman-identified,Canada,No,1,,,,,,,,,"Yes, I experienced",,,,Yes,Yes,Yes,1,Yes,26-50%,Sometimes,Often
+36.0,Contextual,United States of America,No,0,26-100,1.0,Yes,No,Yes,No,Yes,Neither easy nor difficult,"Yes, I observed",Yes,Yes,9.0,No,,No,0,,,Not applicable to me,Not applicable to me
+40.0,male,Switzerland,Yes,1,,,,,,,,,No,,,,Yes,Yes,Yes,1,Yes,1-25%,Sometimes,Sometimes
+23.0,Female,United States of America,Yes,0,100-500,1.0,Yes,No,No,Yes,Yes,Somewhat easy,No,Maybe,No,5.0,No,,No,0,,,Not applicable to me,Not applicable to me
+37.0,m,Canada,No,0,6-25,1.0,No,No,Yes,No,I don't know,Somewhat easy,No,Yes,Yes,5.0,No,,No,0,,,Not applicable to me,Not applicable to me
+42.0,Male,United States of America,I don't know,0,100-500,0.0,Yes,Yes,Yes,Yes,Yes,I don't know,No,Maybe,Yes,6.0,Possibly,,Possibly,1,,,Sometimes,Often
+35.0,Female,United States of America,Yes,0,100-500,0.0,I don't know,No,No,No,I don't know,Difficult,"Yes, I experienced",Yes,Maybe,7.0,Yes,Yes,Yes,1,,,Rarely,Often
+32.0,Female,United States of America,Yes,0,100-500,1.0,Yes,I don't know,Yes,No,Yes,Somewhat difficult,No,Yes,Yes,8.0,Possibly,,No,1,,,Not applicable to me,Not applicable to me
+23.0,Male,United States of America,Yes,0,100-500,1.0,I don't know,I don't know,No,I don't know,Yes,Very easy,No,No,Maybe,4.0,Don't Know,,No,0,,,Not applicable to me,Sometimes
+35.0,Female,United States of America,Yes,0,100-500,1.0,Yes,I don't know,Yes,Yes,I don't know,Somewhat easy,No,Yes,Yes,6.0,Yes,Yes,Yes,1,,,Sometimes,Often
+34.0,female,United States of America,No,0,100-500,1.0,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,Yes,Yes,5.0,Yes,Yes,Yes,1,,,Rarely,Often
+24.0,female,United States of America,Yes,0,100-500,1.0,I don't know,I don't know,No,Yes,Yes,Very easy,Maybe/Not sure,No,No,8.0,Possibly,,Possibly,0,,,Not applicable to me,Sometimes
+38.0,m,United States of America,Yes,0,100-500,1.0,Yes,Yes,Yes,No,I don't know,Somewhat easy,No,Yes,Yes,7.0,Yes,Yes,Yes,1,,,Sometimes,Often
+42.0,Male,United Kingdom,No,0,100-500,1.0,No,No,,No,I don't know,Somewhat easy,No,No,No,5.0,Yes,Yes,Yes,1,,,Sometimes,Often
+23.0,Female,United States of America,I don't know,0,100-500,1.0,Yes,Yes,Yes,No,Yes,Very easy,"Yes, I observed",Maybe,Maybe,8.0,Don't Know,,Possibly,0,,,Not applicable to me,Not applicable to me
+39.0,,United States of America,I don't know,0,100-500,1.0,Yes,Yes,Yes,I don't know,I don't know,Very easy,No,Yes,Maybe,7.0,Possibly,,Yes,1,,,Sometimes,Sometimes
+30.0,Male,United States of America,Yes,0,100-500,1.0,Yes,Yes,No,Yes,I don't know,I don't know,Maybe/Not sure,No,Maybe,6.0,Yes,Yes,Yes,1,,,Rarely,Often
+35.0,Female,United States of America,I don't know,0,100-500,1.0,Yes,Yes,Yes,Yes,I don't know,Very easy,No,Maybe,Yes,10.0,Don't Know,,No,1,,,Not applicable to me,Not applicable to me
+29.0,Female,United States of America,No,0,100-500,1.0,Yes,Yes,Yes,No,Yes,Somewhat easy,Maybe/Not sure,No,Maybe,1.0,Yes,Yes,Yes,1,,,Sometimes,Sometimes
+24.0,female,United States of America,I don't know,0,100-500,1.0,Yes,No,No,Yes,I don't know,Somewhat difficult,No,Yes,Yes,8.0,No,,No,0,,,Not applicable to me,Not applicable to me
+35.0,m,United States of America,Yes,0,500-1000,1.0,Yes,I don't know,No,Yes,I don't know,Somewhat easy,No,No,No,7.0,Possibly,,Possibly,0,,,Not applicable to me,Not applicable to me
+30.0,male,United States of America,I don't know,0,100-500,1.0,Yes,No,Yes,No,Yes,Neither easy nor difficult,Maybe/Not sure,Yes,Yes,5.0,Possibly,,Don't Know,0,,,Sometimes,Often
+28.0,F,United States of America,No,0,6-25,1.0,I don't know,No,No,No,Yes,Neither easy nor difficult,No,Yes,Yes,7.0,No,,No,1,,,Not applicable to me,Not applicable to me
+32.0,F,United States of America,Yes,0,100-500,1.0,Yes,I don't know,Yes,Yes,Yes,Somewhat easy,Maybe/Not sure,Yes,Maybe,5.0,Yes,Yes,Yes,1,,,Sometimes,Often
+34.0,Male,United States of America,Yes,0,100-500,1.0,Yes,Yes,Yes,Yes,Yes,Very easy,No,Yes,Maybe,10.0,Possibly,,Possibly,1,,,Sometimes,Sometimes
+33.0,Male,United States of America,I don't know,0,26-100,1.0,Yes,No,Yes,No,I don't know,Very easy,Maybe/Not sure,Yes,Maybe,2.0,Yes,Yes,Possibly,1,,,Never,Sometimes
+32.0,male,United States of America,No,0,100-500,1.0,Yes,I don't know,Yes,Yes,I don't know,Somewhat easy,Maybe/Not sure,Yes,Yes,10.0,No,,No,0,,,Not applicable to me,Not applicable to me
+27.0,Female,United States of America,I don't know,0,100-500,1.0,Yes,Yes,No,No,I don't know,I don't know,Maybe/Not sure,Yes,Yes,7.0,No,,No,0,,,Not applicable to me,Not applicable to me
+23.0,Female,United States of America,Yes,0,100-500,1.0,Yes,No,Yes,Yes,I don't know,I don't know,Maybe/Not sure,No,Maybe,8.0,Yes,Yes,No,1,,,Rarely,Sometimes
+30.0,Male,Netherlands,Yes,0,100-500,0.0,Not eligible for coverage / NA,I don't know,,No,Yes,Very easy,Maybe/Not sure,Maybe,Maybe,7.0,Yes,Yes,Yes,1,,,Rarely,Often
+24.0,Male,United States of America,Yes,0,100-500,1.0,Yes,I don't know,Yes,Yes,I don't know,Very easy,No,Yes,Yes,7.0,Yes,Yes,Yes,1,,,Sometimes,Often
+34.0,Female,United States of America,Yes,0,100-500,1.0,Yes,Yes,Yes,Yes,I don't know,Very easy,Maybe/Not sure,Yes,Yes,7.0,Yes,Yes,Yes,1,,,Often,Often
+32.0,male,United States of America,I don't know,0,100-500,1.0,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe/Not sure,Maybe,Maybe,8.0,Don't Know,,Don't Know,0,,,Not applicable to me,Not applicable to me
+41.0,female,United States of America,Yes,0,100-500,1.0,I don't know,No,No,No,I don't know,Somewhat difficult,Maybe/Not sure,Maybe,Maybe,5.0,Yes,Yes,Yes,1,,,Sometimes,Often
+37.0,Male,United States of America,I don't know,0,100-500,1.0,Yes,No,Yes,No,I don't know,I don't know,Maybe/Not sure,Maybe,No,5.0,Yes,Yes,Yes,1,,,Rarely,Often
+27.0,Male,Czech Republic,I don't know,1,,,,,,,,,"Yes, I experienced",,,,Possibly,,Yes,1,Yes,26-50%,Not applicable to me,Often
+26.0,Male,United States of America,Yes,0,26-100,1.0,I don't know,I don't know,No,No,I don't know,Neither easy nor difficult,Maybe/Not sure,Yes,Yes,10.0,No,,Yes,1,,,Not applicable to me,Not applicable to me
+24.0,male,United States of America,I don't know,0,6-25,1.0,I don't know,I don't know,,No,Yes,Very easy,No,Maybe,Yes,10.0,Possibly,,No,1,,,Rarely,Sometimes
+44.0,Male,United States of America,No,0,26-100,1.0,Yes,No,Yes,No,Yes,Very easy,Maybe/Not sure,Yes,Yes,3.0,Yes,Yes,Possibly,1,,,Rarely,Often
+40.0,Male,Germany,No,0,More than 1000,1.0,I don't know,No,No,No,Yes,Somewhat difficult,No,No,Maybe,6.0,No,,Yes,0,,,Not applicable to me,Not applicable to me
+42.0,Male,United States of America,No,1,,,,,,,,,Maybe/Not sure,,,,No,,No,0,Not applicable to me,,Not applicable to me,Not applicable to me
+27.0,Non binary,United States of America,Yes,0,More than 1000,0.0,Yes,Yes,No,Yes,I don't know,I don't know,Maybe/Not sure,No,Maybe,8.0,Yes,Yes,Yes,1,,,Sometimes,Often
+40.0,M,United States of America,I don't know,0,6-25,1.0,I don't know,No,No,No,I don't know,Somewhat easy,No,Maybe,Maybe,4.0,Possibly,,Yes,1,,,Rarely,Sometimes
+38.0,Genderqueer demigirl,United States of America,Yes,0,More than 1000,0.0,Yes,Yes,Yes,Yes,Yes,Very easy,"Yes, I experienced",Yes,Yes,8.0,Yes,Yes,Yes,1,,,Sometimes,Often
+34.0,Male,United States of America,Yes,0,500-1000,1.0,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe/Not sure,Maybe,Yes,7.0,Yes,Yes,Yes,1,,,Sometimes,Sometimes
+27.0,female,United States of America,I don't know,0,26-100,1.0,Yes,No,Yes,No,I don't know,I don't know,Maybe/Not sure,Maybe,No,8.0,Yes,Yes,Yes,1,,,Sometimes,Often
+34.0,Male ,United States of America,No,0,More than 1000,0.0,Yes,I don't know,No,No,I don't know,I don't know,No,No,Maybe,8.0,Possibly,,No,1,,,Sometimes,Sometimes
+26.0,male,United States of America,Yes,0,26-100,1.0,No,No,,No,I don't know,Very easy,No,Maybe,Maybe,3.0,No,,No,0,,,Not applicable to me,Not applicable to me
+33.0,Female,United States of America,Yes,1,,,,,,,,,Maybe/Not sure,,,,Yes,Yes,Yes,1,Yes,26-50%,Sometimes,Often
+39.0,Male,United States of America,Yes,0,100-500,1.0,Yes,Yes,No,No,Yes,Very easy,"Yes, I observed",Yes,Yes,7.0,Yes,Yes,Possibly,1,,,Rarely,Often
+33.0,Genderqueer/non-binary,United Kingdom,Yes,0,100-500,0.0,No,Yes,,Yes,I don't know,Somewhat easy,"Yes, I experienced",Yes,Yes,3.0,Yes,No,,1,,,Sometimes,Often
+37.0,f,United States of America,Yes,0,500-1000,0.0,Yes,No,Yes,No,I don't know,I don't know,No,Maybe,No,7.0,Yes,Yes,Yes,1,,,Sometimes,Often
+30.0,Male,United States of America,I don't know,0,26-100,0.0,I don't know,I don't know,No,Yes,I don't know,Somewhat easy,No,No,Maybe,5.0,No,,No,0,,,Not applicable to me,Not applicable to me
+22.0,Male,United Kingdom,Yes,0,6-25,1.0,No,No,,No,I don't know,Very easy,No,Yes,Maybe,3.0,No,,No,0,,,Not applicable to me,Not applicable to me
+29.0,Male,United States of America,Yes,1,,,,,,,,,Maybe/Not sure,,,,Yes,Yes,Yes,1,Yes,51-75%,Rarely,Sometimes
+51.0,Female,United States of America,No,0,6-25,1.0,I don't know,I don't know,,No,I don't know,Very easy,No,Yes,Yes,6.0,No,,No,0,,,Not applicable to me,Not applicable to me
+24.0,Male ,United States of America,Yes,0,More than 1000,0.0,Yes,I don't know,Yes,I don't know,I don't know,Somewhat difficult,Maybe/Not sure,No,No,5.0,Yes,Yes,Yes,1,,,Sometimes,Sometimes
+37.0,Male,United States of America,I don't know,0,More than 1000,1.0,Yes,Yes,No,No,Yes,Somewhat easy,No,No,Maybe,6.0,Yes,Yes,Yes,1,,,Rarely,Sometimes
+46.0,M,United States of America,No,0,500-1000,0.0,Yes,Yes,Yes,No,Yes,Very easy,No,Yes,Yes,9.0,No,,No,0,,,Not applicable to me,Not applicable to me
+43.0,Male,Canada,Yes,1,,,,,,,,,No,,,,Possibly,,Yes,1,Yes,1-25%,Not applicable to me,Sometimes
+50.0,M,United States of America,I don't know,0,More than 1000,0.0,Yes,No,Yes,No,I don't know,Neither easy nor difficult,No,No,Maybe,2.0,Yes,Yes,Yes,1,,,Rarely,Often
+30.0,Male,United States of America,Yes,0,100-500,1.0,Yes,Yes,No,I don't know,I don't know,Neither easy nor difficult,"Yes, I observed",Maybe,Yes,6.0,Yes,Yes,Yes,1,,,Sometimes,Often
+27.0,Male,United States of America,Yes,0,26-100,1.0,I don't know,No,,No,I don't know,Very easy,Maybe/Not sure,Yes,Yes,0.0,No,,No,0,,,Sometimes,Sometimes
+31.0,male,United Kingdom,No,1,,,,,,,,,No,,,,Don't Know,,No,0,Unsure,,Not applicable to me,Not applicable to me
+32.0,male,United States of America,Yes,0,More than 1000,1.0,Yes,I don't know,Yes,I don't know,I don't know,I don't know,"Yes, I experienced",Yes,Yes,8.0,Yes,Yes,Yes,1,,,Sometimes,Often
+34.0,Male,United States of America,Yes,0,6-25,1.0,Yes,No,Yes,No,I don't know,Very easy,No,No,Yes,0.0,Yes,Yes,Yes,1,,,Sometimes,Often
+49.0,m,United States of America,Yes,1,,,,,,,,,"Yes, I observed",,,,Possibly,,Yes,1,Yes,1-25%,Sometimes,Often
+37.0,m,Canada,I don't know,1,,,,,,,,,Maybe/Not sure,,,,Possibly,,Possibly,0,Yes,51-75%,Not applicable to me,Not applicable to me
+35.0,cis-Female,United States of America,Yes,0,500-1000,1.0,Yes,Yes,Yes,No,I don't know,Very easy,No,Yes,Yes,6.0,Yes,Yes,Yes,1,,,Sometimes,Often
+33.0,Nonbinary,Switzerland,I don't know,0,100-500,1.0,Not eligible for coverage / NA,No,,No,I don't know,Neither easy nor difficult,"Yes, I experienced",Yes,Maybe,7.0,Yes,Yes,Yes,1,,,Sometimes,Often
+32.0,Male,India,No,0,26-100,1.0,No,No,No,Yes,Yes,Neither easy nor difficult,No,Yes,No,7.0,No,,No,0,,,Not applicable to me,Not applicable to me
+31.0,Male,United States of America,No,0,More than 1000,0.0,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,Maybe/Not sure,Maybe,Maybe,6.0,No,,No,0,,,Not applicable to me,Not applicable to me
+33.0,Male,United States of America,Yes,0,More than 1000,0.0,Yes,No,Yes,No,Yes,Neither easy nor difficult,"Yes, I observed",No,No,7.0,Yes,Yes,Yes,1,,,Sometimes,Often
+40.0,Female,United States of America,Yes,0,More than 1000,1.0,Yes,No,Yes,No,I don't know,Difficult,Maybe/Not sure,No,No,3.0,Yes,Yes,Don't Know,1,,,Sometimes,Sometimes
+40.0,male,United States of America,Yes,0,500-1000,1.0,Yes,Yes,Yes,No,I don't know,Neither easy nor difficult,No,Yes,Yes,7.0,No,,No,0,,,Not applicable to me,Not applicable to me
+56.0,Male,United States of America,No,1,,,,,,,,,"Yes, I observed",,,,No,,No,0,Yes,26-50%,Not applicable to me,Not applicable to me
+28.0,Nonbinary,United States of America,Yes,0,26-100,1.0,Yes,No,Yes,No,I don't know,Somewhat easy,"Yes, I experienced",Maybe,Maybe,5.0,Yes,Yes,Yes,1,,,Sometimes,Often
+25.0,Male ,United States of America,I don't know,0,1-5,0.0,I don't know,No,No,No,I don't know,Difficult,"Yes, I observed",No,No,6.0,No,,No,0,,,Not applicable to me,Not applicable to me
+48.0,Male,United States of America,Yes,0,6-25,1.0,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,Yes,Yes,7.0,Yes,Yes,Yes,1,,,Never,Rarely
+43.0,cis female,United States of America,Yes,0,More than 1000,0.0,Yes,Yes,Yes,Yes,I don't know,Difficult,Maybe/Not sure,Maybe,Maybe,7.0,Yes,Yes,Yes,1,,,Rarely,Often
+29.0,Male,United States of America,Yes,0,26-100,1.0,Yes,No,Yes,No,I don't know,Somewhat easy,No,Maybe,Maybe,7.0,No,,No,0,,,Not applicable to me,Not applicable to me
+36.0,nonbinary,United States of America,I don't know,0,More than 1000,0.0,Not eligible for coverage / NA,Yes,,Yes,I don't know,Neither easy nor difficult,Maybe/Not sure,Yes,Maybe,10.0,Yes,Yes,Yes,1,,,Rarely,Sometimes
+34.0,Male,United States of America,Yes,0,100-500,1.0,Yes,I don't know,Yes,No,Yes,Very easy,Maybe/Not sure,Maybe,Maybe,9.0,Yes,Yes,Yes,1,,,Often,Often
+31.0,female,United States of America,I don't know,0,26-100,1.0,Not eligible for coverage / NA,I don't know,Yes,No,I don't know,I don't know,Maybe/Not sure,Maybe,Maybe,8.0,Possibly,,Possibly,1,,,Sometimes,Often
+33.0,Male ,United Kingdom,No,0,More than 1000,1.0,Yes,No,No,I don't know,I don't know,Somewhat easy,No,Yes,Maybe,7.0,No,,No,0,,,Not applicable to me,Not applicable to me
+49.0,Male,United States of America,I don't know,0,More than 1000,0.0,Yes,Yes,Yes,Yes,I don't know,Difficult,No,No,No,6.0,Don't Know,,Yes,1,,,Not applicable to me,Sometimes
+38.0,Male,United Kingdom,Yes,1,,,,,,,,,"Yes, I observed",,,,Possibly,,No,0,Yes,26-50%,Not applicable to me,Not applicable to me
+30.0,Female,Australia,No,0,6-25,1.0,No,No,No,No,I don't know,Somewhat difficult,"Yes, I experienced",No,No,7.0,No,,No,0,,,Not applicable to me,Not applicable to me
+36.0,Male,United Kingdom,Yes,1,,,,,,,,,Maybe/Not sure,,,,Yes,No,,1,Yes,76-100%,Not applicable to me,Often
+32.0,woman,United States of America,Yes,0,100-500,0.0,Yes,Yes,Yes,Yes,I don't know,Somewhat difficult,Maybe/Not sure,Maybe,No,5.0,Yes,Yes,Don't Know,1,,,Sometimes,Often
+36.0,male,United States of America,Yes,1,,,,,,,,,No,,,,Don't Know,,Possibly,0,Yes,1-25%,Not applicable to me,Not applicable to me
+40.0,"F, cisgender",United States of America,No,0,100-500,1.0,Yes,No,No,No,I don't know,I don't know,Maybe/Not sure,Maybe,No,8.0,Yes,Yes,Yes,1,,,Never,Sometimes
+28.0,Male,United Kingdom,No,0,26-100,1.0,No,No,,No,I don't know,Somewhat easy,No,Yes,Yes,8.0,No,,Possibly,1,,,Rarely,Rarely
+21.0,Female,India,No,0,More than 1000,1.0,No,I don't know,No,I don't know,I don't know,Difficult,No,No,No,8.0,Possibly,,No,0,,,Not applicable to me,Not applicable to me
+46.0,Male,United States of America,Yes,0,500-1000,1.0,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Maybe/Not sure,Yes,Maybe,7.0,Yes,Yes,Yes,1,,,Often,Often
+20.0,male,Germany,Yes,0,6-25,1.0,Not eligible for coverage / NA,No,,No,I don't know,Neither easy nor difficult,No,Maybe,Maybe,10.0,Yes,Yes,Yes,1,,,Rarely,Sometimes
+30.0,Male,United States of America,I don't know,0,More than 1000,0.0,Yes,Yes,Yes,I don't know,I don't know,Very easy,"Yes, I experienced",Maybe,Yes,8.0,Yes,Yes,Yes,1,,,Rarely,Sometimes
+44.0,female,United States of America,No,0,100-500,1.0,I don't know,I don't know,No,Yes,I don't know,Somewhat easy,No,Maybe,Yes,8.0,No,,Yes,1,,,Rarely,Rarely
+34.0,Male,United Kingdom,I don't know,1,,,,,,,,,Maybe/Not sure,,,,Yes,Yes,Possibly,1,Yes,1-25%,Sometimes,Sometimes
+38.0,Female-ish,United States of America,Yes,1,,,,,,,,,"Yes, I observed",,,,Yes,Yes,Yes,1,Yes,26-50%,Sometimes,Often
+35.0,Male,United States of America,I don't know,0,6-25,1.0,I don't know,No,No,I don't know,I don't know,I don't know,Maybe/Not sure,Maybe,Maybe,7.0,Yes,Yes,Yes,1,,,Sometimes,Often
+45.0,Female,United States of America,Yes,1,,,,,,,,,Maybe/Not sure,,,,Possibly,,Possibly,0,Yes,76-100%,Not applicable to me,Often
+35.0,Male,United Kingdom,I don't know,0,100-500,1.0,I don't know,No,No,No,I don't know,Very easy,No,Yes,Yes,7.0,Yes,Yes,Yes,1,,,Often,Often
+30.0,male,United States of America,No,0,6-25,1.0,Yes,No,No,No,I don't know,I don't know,Maybe/Not sure,Maybe,Maybe,10.0,No,,No,0,,,Not applicable to me,Not applicable to me
+22.0,Female,United States of America,Yes,0,100-500,1.0,I don't know,I don't know,No,No,Yes,Very easy,"Yes, I observed",Yes,Yes,7.0,No,,Yes,1,,,Not applicable to me,Not applicable to me
+33.0,Male,United States of America,Yes,1,,,,,,,,,No,,,,No,,No,0,Unsure,,Not applicable to me,Not applicable to me
+30.0,male,India,I don't know,1,,,,,,,,,Maybe/Not sure,,,,Possibly,,Possibly,0,No,,Never,Sometimes
+41.0,Male,United States of America,Yes,0,100-500,1.0,Yes,Yes,Yes,No,I don't know,Difficult,No,Maybe,No,7.0,No,,No,0,,,Not applicable to me,Not applicable to me
+32.0,Male,United States of America,No,0,26-100,1.0,I don't know,I don't know,No,I don't know,I don't know,Neither easy nor difficult,No,No,Maybe,4.0,No,,No,0,,,Not applicable to me,Not applicable to me
+48.0,Male,United States of America,No,0,100-500,1.0,Yes,I don't know,Yes,No,I don't know,Very easy,No,Maybe,Yes,8.0,No,,No,0,,,Not applicable to me,Not applicable to me
+32.0,male,Germany,Yes,0,26-100,1.0,Yes,No,,No,I don't know,Neither easy nor difficult,"Yes, I observed",Maybe,No,8.0,No,,Yes,1,,,Rarely,Rarely
+30.0,Male,United States of America,I don't know,0,500-1000,0.0,I don't know,I don't know,No,No,I don't know,I don't know,No,Maybe,No,8.0,Possibly,,Possibly,0,,,Not applicable to me,Often
+45.0,Female,United States of America,Yes,0,26-100,0.0,Yes,No,No,No,Yes,Difficult,Maybe/Not sure,Maybe,Yes,7.0,Yes,Yes,Yes,1,,,Rarely,Often
+31.0,Female,United States of America,Yes,1,,,,,,,,,No,,,,Yes,Yes,Yes,1,Yes,1-25%,Sometimes,Often
+32.0,\-,United Kingdom,No,0,26-100,1.0,No,No,No,No,I don't know,Difficult,No,Maybe,No,3.0,Possibly,,Don't Know,0,,,Not applicable to me,Often
+30.0,m,United States of America,I don't know,0,More than 1000,0.0,I don't know,No,No,No,I don't know,I don't know,No,Yes,Yes,9.0,Yes,Yes,No,1,,,Rarely,Often
+32.0,Male,United States of America,I don't know,0,6-25,1.0,Yes,No,No,No,I don't know,Somewhat easy,Maybe/Not sure,Maybe,No,3.0,Yes,Yes,Possibly,1,,,Rarely,Rarely
+37.0,Female,United States of America,Yes,0,100-500,1.0,Yes,No,Yes,No,I don't know,Somewhat easy,"Yes, I experienced",Maybe,No,5.0,Yes,Yes,Yes,1,,,Rarely,Often
+30.0,Male,United States of America,Yes,1,,,,,,,,,"Yes, I observed",,,,Possibly,,Possibly,0,Yes,1-25%,Not applicable to me,Often
+31.0,trans woman,Netherlands,I don't know,1,,,,,,,,,Maybe/Not sure,,,,Yes,Yes,Yes,1,Yes,1-25%,Rarely,Often
+30.0,Male,United States of America,No,0,6-25,1.0,Yes,No,No,No,Yes,Very easy,No,Yes,Yes,0.0,No,,Possibly,1,,,Not applicable to me,Not applicable to me
+35.0,Female,United Kingdom,I don't know,0,100-500,1.0,No,No,,No,No,Somewhat difficult,Maybe/Not sure,Maybe,Maybe,7.0,Possibly,,Don't Know,1,,,Often,Often
+37.0,Male,United States of America,I don't know,0,More than 1000,1.0,Yes,I don't know,No,I don't know,I don't know,I don't know,No,Maybe,Maybe,7.0,No,,No,1,,,Not applicable to me,Not applicable to me
+26.0,Male,United Kingdom,Yes,0,26-100,1.0,No,No,Yes,No,Yes,Neither easy nor difficult,"Yes, I experienced",Yes,Maybe,5.0,Possibly,,Yes,1,,,Rarely,Often
+50.0,male,United States of America,Yes,0,26-100,1.0,Yes,No,Yes,No,I don't know,Somewhat easy,Maybe/Not sure,Maybe,Maybe,3.0,Possibly,,Possibly,1,,,Rarely,Often
+32.0,m,United States of America,I don't know,0,6-25,1.0,I don't know,No,No,No,I don't know,Somewhat easy,Maybe/Not sure,No,Maybe,2.0,Possibly,,Possibly,0,,,Not applicable to me,Not applicable to me
+32.0,male,United States of America,No,0,100-500,1.0,I don't know,Yes,No,I don't know,Yes,Very easy,No,Yes,Yes,8.0,No,,No,0,,,Not applicable to me,Not applicable to me
+23.0,Male,United States of America,No,0,1-5,1.0,Not eligible for coverage / NA,No,,No,No,Somewhat difficult,No,Maybe,Maybe,2.0,No,,No,0,,,Not applicable to me,Not applicable to me
+40.0,f,United States of America,Yes,0,26-100,1.0,I don't know,Yes,No,I don't know,I don't know,I don't know,"Yes, I observed",Maybe,No,5.0,Possibly,,Yes,1,,,Sometimes,Sometimes
+36.0,M,United States of America,No,0,1-5,1.0,I don't know,I don't know,No,No,I don't know,Somewhat difficult,No,Maybe,Maybe,0.0,No,,No,0,,,Not applicable to me,Not applicable to me
+24.0,female,United States of America,Yes,0,26-100,1.0,I don't know,No,No,I don't know,I don't know,I don't know,No,Yes,Maybe,5.0,Yes,Yes,Yes,0,,,Sometimes,Often
+29.0,F,United States of America,No,0,6-25,1.0,Yes,I don't know,No,No,I don't know,I don't know,Maybe/Not sure,Maybe,Yes,7.0,No,,No,0,,,Not applicable to me,Not applicable to me
+28.0,Male,United States of America,I don't know,0,26-100,1.0,Yes,I don't know,No,No,I don't know,I don't know,No,Yes,Maybe,6.0,No,,No,0,,,Not applicable to me,Not applicable to me
+51.0,male,United States of America,No,0,26-100,1.0,No,I don't know,Yes,No,Yes,Somewhat easy,No,No,Yes,8.0,No,,Possibly,0,,,Sometimes,Sometimes
+36.0,Male,United States of America,Yes,0,26-100,1.0,I don't know,I don't know,No,No,Yes,Very easy,No,Maybe,Yes,5.0,No,,No,0,,,Not applicable to me,Not applicable to me
+40.0,male,United States of America,No,0,26-100,1.0,Yes,Yes,No,No,Yes,Somewhat easy,No,Maybe,Maybe,6.0,No,,No,0,,,Not applicable to me,Not applicable to me
+39.0,M,Canada,I don't know,0,100-500,1.0,Yes,Yes,No,No,I don't know,Somewhat difficult,"Yes, I observed",Maybe,No,8.0,Possibly,,Yes,1,,,Sometimes,Often
+32.0,f,Netherlands,No,0,100-500,1.0,I don't know,I don't know,No,I don't know,I don't know,Somewhat easy,No,Maybe,Yes,6.0,No,,No,0,,,Sometimes,Often
+45.0,Male,United States of America,Yes,0,100-500,0.0,No,No,No,Yes,No,Neither easy nor difficult,Maybe/Not sure,No,No,5.0,Possibly,,Possibly,0,,,Never,Often
+39.0,Male,United States of America,Yes,0,500-1000,1.0,I don't know,I don't know,No,I don't know,I don't know,Neither easy nor difficult,No,Maybe,Yes,5.0,No,,No,0,,,Not applicable to me,Not applicable to me
+33.0,m,United States of America,I don't know,1,,,,,,,,,No,,,,Yes,Yes,Yes,1,Yes,51-75%,Often,Often
+46.0,m,United States of America,I don't know,0,More than 1000,1.0,Yes,Yes,Yes,Yes,Yes,Neither easy nor difficult,Maybe/Not sure,Maybe,Maybe,7.0,Yes,Yes,Possibly,1,,,Sometimes,Often
+34.0,Male,United States of America,I don't know,0,26-100,1.0,I don't know,I don't know,No,No,I don't know,Somewhat difficult,Maybe/Not sure,Maybe,No,6.0,Don't Know,,Possibly,0,,,Sometimes,Sometimes
+30.0,Male,France,Yes,0,6-25,1.0,I don't know,No,,No,I don't know,I don't know,"Yes, I observed",No,Maybe,7.0,No,,No,0,,,Not applicable to me,Not applicable to me
+31.0,Male,United States of America,Yes,0,6-25,1.0,Not eligible for coverage / NA,No,,No,I don't know,Very easy,No,Yes,Yes,10.0,Yes,Yes,Yes,1,,,Sometimes,Often
+28.0,Male,United States of America,Yes,0,26-100,1.0,Yes,No,Yes,No,No,Somewhat easy,No,No,No,8.0,Yes,Yes,Possibly,1,,,Often,Often
+31.0,Male,United Kingdom,No,1,,,,,,,,,No,,,,Possibly,,Yes,1,Yes,1-25%,Not applicable to me,Not applicable to me
+32.0,Male,United Kingdom,No,0,100-500,0.0,Yes,No,Yes,No,Yes,Neither easy nor difficult,No,Maybe,Maybe,2.0,Possibly,,No,1,,,Not applicable to me,Not applicable to me
+39.0,male,United States of America,I don't know,0,More than 1000,1.0,I don't know,I don't know,No,I don't know,I don't know,Difficult,Maybe/Not sure,No,Maybe,7.0,Don't Know,,Possibly,1,,,Not applicable to me,Not applicable to me
+45.0,F,United States of America,Yes,0,More than 1000,1.0,Yes,Yes,No,Yes,Yes,Somewhat easy,"Yes, I observed",Yes,Yes,5.0,No,,No,0,,,Not applicable to me,Not applicable to me
+26.0,Male,United States of America,No,1,,,,,,,,,No,,,,Don't Know,,Don't Know,0,Yes,1-25%,Not applicable to me,Not applicable to me
+36.0,Female,United States of America,I don't know,0,More than 1000,1.0,Yes,Yes,Yes,Yes,Yes,I don't know,Maybe/Not sure,Maybe,Maybe,8.0,Possibly,,No,1,,,Rarely,Often
+26.0,Male,United States of America,I don't know,0,500-1000,1.0,Yes,No,No,No,I don't know,Somewhat easy,Maybe/Not sure,Yes,Maybe,2.0,Yes,Yes,Yes,1,,,Rarely,Often
+55.0,female,United States of America,I don't know,0,6-25,1.0,I don't know,No,No,No,I don't know,I don't know,No,Maybe,Yes,0.0,Don't Know,,Don't Know,1,,,Not applicable to me,Not applicable to me
+32.0,F,Canada,I don't know,1,,,,,,,,,"Yes, I experienced",,,,Yes,Yes,Yes,1,Yes,26-50%,Rarely,Often
+40.0,Transfeminine,United States of America,Yes,0,More than 1000,1.0,Yes,No,No,No,I don't know,I don't know,Maybe/Not sure,Maybe,No,8.0,Possibly,,Yes,1,,,Rarely,Sometimes
+27.0,female,United States of America,Yes,0,More than 1000,0.0,I don't know,No,No,No,I don't know,Somewhat difficult,"Yes, I observed",No,Maybe,7.0,Yes,Yes,Yes,1,,,Sometimes,Often
+45.0,female,United States of America,Yes,0,More than 1000,0.0,Yes,Yes,Yes,I don't know,Yes,Neither easy nor difficult,"Yes, I observed",Maybe,Maybe,10.0,Yes,Yes,Yes,1,,,Sometimes,Often
+34.0,female,United States of America,No,0,26-100,1.0,No,No,No,No,I don't know,Difficult,"Yes, I observed",Yes,Yes,5.0,Yes,Yes,Yes,1,,,Never,Often
+31.0,Male,United States of America,Yes,0,500-1000,0.0,I don't know,No,No,No,I don't know,Somewhat difficult,Maybe/Not sure,No,Yes,3.0,No,,No,0,,,Not applicable to me,Not applicable to me
+29.0,female,Canada,Yes,1,,,,,,,,,"Yes, I experienced",,,,Yes,Yes,Yes,1,Yes,1-25%,Sometimes,Often
+31.0,Male,Sweden,No,1,,,,,,,,,No,,,,Possibly,,Possibly,0,Yes,1-25%,Not applicable to me,Sometimes
+40.0,Male,United States of America,No,0,100-500,0.0,Yes,I don't know,Yes,No,I don't know,Neither easy nor difficult,"Yes, I observed",No,Yes,9.0,Possibly,,Yes,1,,,Sometimes,Often
+41.0,Male,United States of America,Yes,0,26-100,0.0,Yes,No,Yes,No,Yes,Somewhat easy,No,Maybe,Yes,5.0,No,,No,0,,,Not applicable to me,Not applicable to me
+39.0,M,United States of America,No,0,100-500,1.0,I don't know,I don't know,No,No,I don't know,I don't know,No,Maybe,Maybe,8.0,No,,No,0,,,Not applicable to me,Not applicable to me
+39.0,Male,United States of America,No,0,6-25,1.0,Yes,I don't know,Yes,No,I don't know,Somewhat difficult,No,No,No,7.0,No,,No,0,,,Not applicable to me,Not applicable to me
+35.0,Female,United States of America,Yes,1,,,,,,,,,"Yes, I experienced",,,,Yes,Yes,Yes,1,Yes,1-25%,Rarely,Sometimes
+37.0,m,United States of America,I don't know,0,More than 1000,1.0,I don't know,I don't know,No,No,I don't know,Somewhat easy,Maybe/Not sure,Maybe,Maybe,5.0,No,,No,0,,,Not applicable to me,Not applicable to me
+32.0,Male,France,No,0,6-25,0.0,Yes,No,No,Yes,Yes,Very easy,No,Yes,No,8.0,No,,No,0,,,Sometimes,Sometimes
+24.0,Man,France,Yes,0,100-500,1.0,I don't know,I don't know,,I don't know,I don't know,Somewhat easy,No,Maybe,Maybe,8.0,No,,No,0,,,Not applicable to me,Not applicable to me
+40.0,F,France,No,0,More than 1000,1.0,Not eligible for coverage / NA,I don't know,,I don't know,I don't know,Very easy,No,Yes,Yes,9.0,No,,Yes,1,,,Not applicable to me,Not applicable to me
+25.0,Cis-male,United States of America,Yes,0,26-100,0.0,Yes,No,No,No,I don't know,Neither easy nor difficult,"Yes, I observed",Yes,No,0.0,Yes,Yes,Yes,1,,,Rarely,Sometimes
+49.0,Male,United Kingdom,No,0,26-100,1.0,Yes,Yes,Yes,No,Yes,I don't know,Maybe/Not sure,Maybe,Maybe,5.0,No,,No,0,,,Not applicable to me,Not applicable to me
+28.0,Male,United States of America,Yes,0,100-500,0.0,I don't know,No,No,No,I don't know,Somewhat easy,Maybe/Not sure,Maybe,Maybe,3.0,Yes,Yes,Yes,1,,,Rarely,Often
+22.0,Male,United States of America,Yes,0,6-25,1.0,Not eligible for coverage / NA,I don't know,,No,I don't know,Very easy,"Yes, I experienced",Yes,Maybe,8.0,Possibly,,No,1,,,Rarely,Often
+41.0,Male,United States of America,No,0,More than 1000,1.0,Yes,Yes,No,No,I don't know,Somewhat easy,No,No,Yes,7.0,No,,No,0,,,Not applicable to me,Not applicable to me
+36.0,Male,United States of America,No,0,26-100,1.0,No,I don't know,,No,I don't know,Very easy,No,Maybe,Yes,5.0,Possibly,,No,0,,,Not applicable to me,Rarely
+32.0,Male,United States of America,No,0,1-5,1.0,I don't know,I don't know,No,No,I don't know,Somewhat easy,Maybe/Not sure,Maybe,Maybe,5.0,No,,Possibly,1,,,Not applicable to me,Not applicable to me
+23.0,Male,United States of America,Yes,0,500-1000,0.0,I don't know,No,No,No,Yes,Difficult,No,Maybe,Yes,7.0,Yes,No,,1,,,Not applicable to me,Often
+53.0,M,United States of America,Yes,0,100-500,1.0,Yes,I don't know,Yes,No,Yes,Neither easy nor difficult,"Yes, I observed",Maybe,Yes,8.0,Yes,Yes,Yes,1,,,Rarely,Often
+34.0,Male,United States of America,Yes,0,100-500,1.0,Yes,No,Yes,No,Yes,Difficult,"Yes, I experienced",Yes,No,7.0,Yes,Yes,Yes,1,,,Sometimes,Often
+30.0,Male,United States of America,Yes,0,More than 1000,0.0,No,No,Yes,Yes,Yes,Somewhat difficult,"Yes, I observed",No,No,5.0,Possibly,,Possibly,1,,,Sometimes,Sometimes
+23.0,Male,United States of America,I don't know,1,,,,,,,,,No,,,,Yes,Yes,Yes,1,Yes,1-25%,Sometimes,Often
+30.0,Male,United States of America,Yes,0,100-500,1.0,I don't know,I don't know,No,No,I don't know,Somewhat easy,"Yes, I experienced",Maybe,Yes,7.0,Yes,Yes,Yes,1,,,Rarely,Sometimes
+22.0,F,United States of America,Yes,0,6-25,1.0,Yes,Yes,Yes,No,Yes,I don't know,"Yes, I experienced",Maybe,Yes,10.0,Yes,Yes,Yes,1,,,Sometimes,Often
+27.0,Female,United States of America,I don't know,0,26-100,1.0,I don't know,No,No,No,I don't know,Somewhat difficult,Maybe/Not sure,Maybe,Yes,3.0,Yes,Yes,Yes,1,,,Rarely,Often
+47.0,,Latvia,No,1,,,,,,,,,"Yes, I observed",,,,No,,Possibly,1,Yes,1-25%,Not applicable to me,Not applicable to me
+33.0,female,United States of America,Yes,0,6-25,1.0,Yes,No,Yes,Yes,Yes,Somewhat easy,"Yes, I observed",Yes,Yes,7.0,Yes,Yes,Yes,1,,,Sometimes,Often
+28.0,male,United States of America,Yes,0,26-100,1.0,Yes,Yes,Yes,No,I don't know,Somewhat difficult,No,Maybe,No,4.0,No,,No,0,,,Not applicable to me,Not applicable to me
+36.0,male,United States of America,Yes,0,26-100,1.0,Yes,I don't know,No,No,I don't know,Somewhat easy,No,No,No,5.0,Possibly,,Yes,1,,,Not applicable to me,Often
+25.0,Female,United States of America,Yes,0,6-25,1.0,I don't know,I don't know,No,No,Yes,Very easy,No,Yes,Yes,10.0,Possibly,,Don't Know,0,,,Sometimes,Not applicable to me
+30.0,Female,United States of America,Yes,0,More than 1000,0.0,Not eligible for coverage / NA,No,No,No,I don't know,Difficult,Maybe/Not sure,Maybe,No,8.0,Don't Know,,Don't Know,1,,,Not applicable to me,Not applicable to me
+39.0,Male,United States of America,Yes,0,More than 1000,0.0,Yes,Yes,No,No,I don't know,I don't know,Maybe/Not sure,Maybe,Yes,7.0,No,,No,0,,,Not applicable to me,Not applicable to me
+31.0,,United States of America,I don't know,0,100-500,1.0,Yes,No,No,I don't know,I don't know,Neither easy nor difficult,No,Yes,Maybe,9.0,Possibly,,Don't Know,1,,,Sometimes,Often
+48.0,Male,United States of America,Yes,0,More than 1000,0.0,Yes,Yes,Yes,Yes,I don't know,Somewhat difficult,No,Maybe,Maybe,6.0,Don't Know,,No,0,,,Sometimes,Sometimes
+43.0,Male,United States of America,I don't know,0,100-500,1.0,I don't know,I don't know,No,No,I don't know,Very easy,Maybe/Not sure,Maybe,Maybe,5.0,No,,No,0,,,Not applicable to me,Not applicable to me
+35.0,male,United States of America,I don't know,0,More than 1000,1.0,Yes,No,No,No,No,Very easy,Maybe/Not sure,No,Maybe,6.0,Don't Know,,Don't Know,0,,,Not applicable to me,Sometimes
+31.0,female,United States of America,Yes,0,100-500,0.0,Yes,No,No,Yes,I don't know,I don't know,"Yes, I observed",Maybe,Maybe,10.0,Possibly,,Yes,1,,,Sometimes,Often
+28.0,Male,India,I don't know,0,26-100,1.0,No,No,,No,No,Neither easy nor difficult,No,No,No,5.0,No,,No,0,,,Rarely,Sometimes
+27.0,male,United States of America,No,0,1-5,1.0,I don't know,I don't know,,No,I don't know,Somewhat difficult,No,Maybe,Maybe,7.0,No,,No,0,,,Not applicable to me,Not applicable to me
+28.0,Male,United States of America,No,0,1-5,1.0,I don't know,I don't know,No,No,I don't know,Neither easy nor difficult,No,Yes,Yes,8.0,No,,Yes,1,,,Not applicable to me,Not applicable to me
+43.0,Female,United States of America,I don't know,0,500-1000,1.0,Yes,Yes,Yes,I don't know,Yes,Somewhat difficult,Maybe/Not sure,Maybe,No,9.0,Possibly,,Possibly,1,,,Sometimes,Sometimes
+31.0,F,United States of America,Yes,0,More than 1000,1.0,Yes,No,Yes,No,I don't know,Difficult,No,Maybe,Maybe,8.0,Yes,Yes,Yes,1,,,Rarely,Often
+37.0,male,United States of America,No,0,More than 1000,1.0,Yes,I don't know,No,No,Yes,I don't know,Maybe/Not sure,Yes,No,5.0,No,,No,0,,,Not applicable to me,Not applicable to me
+36.0,Cis Male,United States of America,Yes,0,26-100,1.0,Yes,No,Yes,No,I don't know,Somewhat easy,Maybe/Not sure,Yes,Yes,7.0,Yes,Yes,Yes,1,,,Rarely,Often
+42.0,Female,United States of America,Yes,0,100-500,1.0,Yes,Yes,Yes,No,Yes,Very easy,No,Yes,Yes,7.0,Yes,Yes,Yes,1,,,Rarely,Often
+29.0,F,United States of America,I don't know,0,100-500,1.0,Yes,Yes,Yes,I don't know,Yes,Somewhat easy,No,Maybe,No,8.0,No,,Yes,1,,,Rarely,Often
+41.0,Female,United States of America,Yes,0,500-1000,1.0,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,"Yes, I observed",Maybe,No,8.0,Yes,Yes,Yes,1,,,Rarely,Often
+37.0,Male,United States of America,No,1,,,,,,,,,"Yes, I observed",,,,No,,Yes,0,Yes,26-50%,Often,Often
+53.0,Male,United States of America,No,0,26-100,1.0,Yes,I don't know,Yes,Yes,Yes,I don't know,Maybe/Not sure,Yes,Yes,7.0,No,,No,1,,,Rarely,Sometimes
+43.0,male,United States of America,Yes,1,,,,,,,,,Maybe/Not sure,,,,Possibly,,Don't Know,1,Yes,51-75%,Not applicable to me,Not applicable to me
+44.0,Male,United States of America,I don't know,0,500-1000,1.0,I don't know,I don't know,No,No,I don't know,Difficult,No,No,No,4.0,Don't Know,,No,0,,,Never,Sometimes
+37.0,Female,United States of America,No,0,100-500,0.0,Yes,Yes,Yes,I don't know,I don't know,I don't know,"Yes, I observed",Maybe,Maybe,5.0,No,,No,0,,,Not applicable to me,Not applicable to me
+57.0,F,United States of America,I don't know,0,26-100,1.0,Yes,I don't know,No,No,I don't know,Neither easy nor difficult,No,Maybe,Maybe,5.0,Yes,Yes,Yes,1,,,Sometimes,Often
+47.0,Male,United States of America,No,0,More than 1000,1.0,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,6.0,No,,No,1,,,Never,Never
+34.0,Male,United States of America,No,0,100-500,1.0,Yes,Yes,Yes,Yes,Yes,Neither easy nor difficult,"Yes, I observed",Maybe,Yes,9.0,No,,No,1,,,Not applicable to me,Not applicable to me
+29.0,Male,United States of America,Yes,0,26-100,1.0,Yes,No,Yes,No,Yes,Somewhat easy,Maybe/Not sure,Maybe,Yes,4.0,Yes,Yes,Possibly,1,,,Rarely,Often
+38.0,Male,United States of America,No,0,500-1000,0.0,I don't know,No,No,No,I don't know,Difficult,No,Maybe,No,7.0,Possibly,,Yes,1,,,Rarely,Often
+41.0,Male,United Kingdom,No,0,26-100,1.0,I don't know,I don't know,No,No,Yes,Very easy,Maybe/Not sure,Yes,Yes,6.0,No,,Yes,1,,,Not applicable to me,Not applicable to me
+40.0,Male,United States of America,No,0,6-25,1.0,Yes,No,No,I don't know,Yes,Very easy,Maybe/Not sure,Yes,Yes,8.0,Yes,Yes,Yes,1,,,Sometimes,Often
+,,,Yes,1,,,,,,,,,,,,,Yes,Yes,Yes,1,No,,Rarely,Sometimes
+30.0,dude,United States of America,No,0,26-100,1.0,Yes,No,Yes,No,No,Very easy,No,No,Yes,6.0,Possibly,,Possibly,0,,,Not applicable to me,Not applicable to me
+,,,Yes,1,,,,,,,,,,,,,Yes,Yes,Yes,1,Yes,26-50%,Sometimes,Often
