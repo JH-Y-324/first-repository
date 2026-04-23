@@ -1,0 +1,142 @@
+SELECT COUNT(DISTINCT ID)
+FROM `project-name.dataset-name.table-name`
+
+SELECT Gender, COUNT(DISTINCT ID)/(SELECT COUNT(DISTINCT ID) FROM `project-name.dataset-name.table-name`)*100
+FROM `project-name.dataset-name.table-name`
+GROUP BY Gender
+
+SELECT AVG(Age)
+FROM `project-name.dataset-name.table-name`
+
+
+
+
+
+
+WITH RawData AS (
+  SELECT ID, 
+         Gender, 
+         Ever_Married, 
+         CASE WHEN Ever_Married IS true THEN 1 ELSE 0 END AS Indicator
+  FROM `project-name.dataset-name.table-name`
+)
+SELECT SUM(Indicator) AS MarriedNumber, 
+       SUM(Indicator)/COUNT(Indicator) AS MarriedPercentage
+FROM RawData
+
+
+
+
+
+
+WITH RawData AS (
+  SELECT ID, 
+         Graduated, 
+         CASE WHEN Graduated IS true THEN 1 ELSE 0 END AS Indicator
+  FROM `project-name.dataset-name.table-name`
+)
+SELECT SUM(Indicator) AS GraduatedNumber, 
+       SUM(Indicator)/COUNT(Indicator) AS GraduatedPercentage
+FROM RawData
+
+
+
+
+
+
+SELECT Profession, COUNT(DISTINCT ID) AS UserCount
+FROM `project-name.dataset-name.table-name`
+GROUP BY Profession
+ORDER BY UserCount DESC
+
+SELECT AVG(Age)
+FROM `project-name.dataset-name.table-name`
+WHERE Segmentation = "A"
+
+
+
+
+
+
+WITH ProcessedData AS (
+  SELECT ID, Profession, Spending_Score,
+    CASE WHEN Spending_Score = "Low" THEN 1 ELSE 0 END IsLow, 
+    CASE WHEN Spending_Score = "Average" THEN 1 ELSE 0 END IsAvg,
+    CASE WHEN Spending_Score = "High" THEN 1 ELSE 0 END IsHigh  
+  FROM `project-name.dataset-name.table-name`
+)
+SELECT Profession,
+       ROUND(SUM(IsLow)/COUNT(ID), 2) AS LowNum,
+       ROUND(SUM(IsAvg)/COUNT(ID), 2) AS AvgNum,
+       ROUND(SUM(IsHigh)/COUNT(ID), 2) AS HighNum
+FROM ProcessedData
+GROUP BY Profession
+
+
+
+
+
+
+SELECT Segmentation, COUNT(DISTINCT ID)
+FROM `project-name.dataset-name.table-name`
+GROUP BY Segmentation
+
+
+
+
+
+
+WITH ProcessedData AS (
+  SELECT ID, 
+         Ever_Married, 
+         Segmentation, 
+         CASE WHEN Ever_Married IS true THEN 1 ELSE 0 END IsMarried
+  FROM `project-name.dataset-name.table-name`
+) 
+SELECT Segmentation, SUM(IsMarried)/COUNT(ID)
+FROM ProcessedData
+GROUP BY Segmentation
+
+
+
+
+
+
+WITH ProcessedData AS (
+  SELECT Segmentation, ID,
+         CASE WHEN Spending_Score = "Low" THEN 1 ELSE 0 END isLow,
+         CASE WHEN Spending_Score = "Average" THEN 1 ELSE 0 END isAvg,
+         CASE WHEN Spending_Score = "High" THEN 1 ELSE 0 END isHigh
+  FROM `project-name.dataset-name.table-name`
+)
+SELECT Segmentation, 
+       ROUND(SUM(isLow)/COUNT(ID)*100) AS LowPercentage,
+       ROUND(SUM(isAvg)/COUNT(ID)*100) AS AvgPercentage,
+       ROUND(SUM(isHigh)/COUNT(ID)*100) AS HighPercentage
+FROM ProcessedData
+GROUP BY Segmentation
+
+
+
+
+
+
+SELECT Segmentation, AVG(Age)
+FROM `project-name.dataset-name.table-name`
+GROUP BY Segmentation
+
+
+
+
+
+
+SELECT Segmentation, ROUND(AVG(Family_Size), 1)
+FROM `project-name.dataset-name.table-name`
+GROUP BY Segmentation
+
+
+
+SELECT Segmentation, Profession, COUNT(ID)
+FROM `project-name.dataset-name.table-name`
+GROUP BY Segmentation, Profession
+ORDER BY Segmentation, COUNT(ID) DESC

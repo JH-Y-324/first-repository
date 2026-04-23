@@ -1,0 +1,54 @@
+SELECT FORMAT_TIMESTAMP('%Y-%m', InvoiceDate), COUNT(DISTINCT InvoiceNo)
+FROM `project-name.dataset-name.table-name` 
+GROUP BY FORMAT_TIMESTAMP('%Y-%m', InvoiceDate)
+
+SELECT LEFT(CAST(InvoiceDate AS STRING, 7), COUNT(DISTINCT InvoiceNo)
+FROM `project-name.dataset-name.table-name` 
+GROUP BY LEFT(CAST(InvoiceDate AS STRING, 7)
+
+
+
+SELECT COUNT(DISTINCT InvoiceNo)
+FROM `project-name.dataset-name.table-name` 
+WHERE Invoice LIKE "C%"
+
+SELECT Country, ROUND(SUM(Indicator)/COUNT(DISTINCT InvoiceNo)*100, 2) AS CancelRate
+FROM (
+  SELECT DISTINCT Country, InvoiceNo, CASE WHEN InvoiceNo LIKE "C%" THEN 1 ELSE 0 END AS Indicator
+  FROM `project-name.dataset-name.table-name` 
+) AS RawData
+GROUP BY Country
+ORDER BY CancelRate DESC
+
+
+
+WITH OrderProcessed AS (
+	SELECT Country, InvoiceNo, Indicator, SUM(PurchasePrice) AS TotalPrice
+	FROM (
+		SELECT Country, 
+						InvoiceNo, 
+						StockCode, 
+						Quantity * UnitPrice AS PurchasePrice,
+						CASE WHEN InvoiceNo LIKE "C%" THEN 1 ELSE 0 END AS Indicator
+		FROM `project-name.dataset-name.table-name` 
+	) AS RawData
+	GROUP BY Country, InvoiceNo, Indicator
+)
+SELECT Country, ROUND(SUM(Indicator)/COUNT(DISTINCT InvoiceNo)*100, 2) AS CancelRate, AVG(TotalPrice) AS AvgPurchasePrice
+FROM OrderProcessed
+GROUP BY Country
+ORDER BY AvgPurchasePrice DESC
+
+
+
+WITH RawData AS (
+	SELECT InvoiceNo,
+			StockCode,
+			Description,
+			CASE WHEN Quantity < 0 THEN -1 * Quantity ELSE Quantity END FixedQuantity,
+			CASE WHEN InvoiceNo LIKE "C%" THEN 1 ELSE 0 END Indicator
+	FROM `project-name.dataset-name.table-name` 
+)
+SELECT StockCode, Description, ROUND(SUM(FixedQuantity*Indicator)/SUM(FixedQuantity) * 100, 2)
+FROM RawData
+GROUP BY StockCode, Description
